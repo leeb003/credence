@@ -1,0 +1,261 @@
+/* Dynamically generated styles for the theme, this comes after our style.css */
+	.border-bottom {border-bottom: 1px solid rgba(46,204,113,1); padding-bottom: 5px;}
+
+	.footer a, .footer a:visited, .footer a:active {
+		color: rgba(46,204,113,1);
+	}
+
+	a.upToTop:active, a.upToTop:hover {
+         color: rgba(46,204,113,1);
+    }
+
+	/* Above Navigation */
+	.above-nav { 
+		border-top: 4px solid rgba(46,204,113,1)
+	}
+
+	.above-social li a:hover i {
+        color: rgba(46,204,113,1);
+    }
+
+	.navbar-default .navbar-nav > .active > a,
+	.navbar-default .navbar-nav > .active > a:hover,
+	.navbar-default .navbar-nav > .active > a:focus,
+	.navbar-default .navbar-nav > .current-menu-parent > a,
+	.navbar-default .navbar-nav > .current-menu-ancestor > a {
+		background: none;
+		color: rgba(46,204,113,1);
+	}
+
+	.navbar-default .navbar-nav > li > a:hover,
+	.navbar-default .navbar-nav > li > a:focus,
+	.navbar-default .top-minor-menu > li > a:hover,
+    .navbar-default .nav-menu-secondary > li > a:hover {
+		background: none;
+		color: rgba(46,204,113,1);
+	}
+
+	.navbar-nav>li.menu-item:hover >a,
+	.navbar-nav>li.menu-item:focus >a {
+		color: rgba(46,204,113,1);
+	}
+
+	.navbar-nav>li.menu-item:hover,
+	.navbar-nav>li.menu-item.active:not(.cart-list),
+	.navbar-nav>li.menu-item:focus,
+	.navbar-nav>li.menu-item.current-menu-ancestor {
+    	border-top: 4px solid rgba(46,204,113,1);
+    	margin-top: -4px;
+	}
+
+	ul.offcanvas-list li:hover a,
+	ul.offcanvas-list li.current-menu-item a {
+		box-shadow: -4px 0px 0px 0px rgba(46,204,113,1);
+		color: rgba(46,204,113,1);
+	}
+
+	.navbar-nav>li.menu-item>a:hover,
+	.navbar-nav>li.menu-item>a:focus {
+		color: rgba(46,204,113,1);
+	}
+	.title-section a:hover {
+		color: rgba(46,204,113,1);
+	}
+
+	/* Login Widget */
+	ul.tabs_login li.active_login a {
+		color: rgba(46,204,113,1);
+	}
+
+	/* Like Buttons */
+	a.jm-post-like.liked {
+		color: rgba(46,204,113,1);
+	}
+
+	.footer-widget a:hover {
+		color: rgba(46,204,113,1);
+	}
+
+	.accent, .opened { color: rgba(46,204,113,1) !important; }
+
+	/* Shortcodes */
+	.sh-dropcap.theme.foreground { color: rgba(46,204,113,1); }
+	.sh-dropcap.theme.background { background: rgba(46,204,113,1); color: #fff }
+
+	.sh-highlight.foreground.accentcolor {color:rgba(46,204,113,1); }
+	.sh-highlight.background.accentcolor {background:rgba(46,204,113,1); color:#fff;}
+
+	.sh-popover {
+		color: rgba(46,204,113,1);
+	}
+
+	.imageframe-overlay {
+		background: rgba(46,204,113,1);
+	}
+
+	ul.sh-checklist.background i,
+	ol.sh-checklist.background li:before {
+		color: #fff;
+		background-color: rgba(46,204,113,1);
+	}
+
+	.social-networks li a:hover { color: #2ecc71; }
+	.social-icon a:hover { color: #2ecc71; }
+	blockquote { border-left: 5px solid rgba(46,204,113,1); }
+	a:hover, a:focus { color: rgba(46,204,113,1); }
+
+	.wpb_tabs li.ui-state-default.ui-tabs-active { box-shadow: inset 0 3px 0px 0px rgba(46,204,113,1); }
+	.wpb_tour .wpb_tabs_nav li.ui-state-default.ui-tabs-active { border-top: 3px solid rgba(46,204,113,1); }
+
+	.page_nav a {
+		background: rgba(46,204,113,1);
+	}
+
+	.page_nav .current {
+		background: rgba(46,204,113,0.8);
+	}
+
+	.page_nav a:hover {
+		background: rgba(46,204,113,0.8);
+	}
+
+	.like-left { color: rgba(46,204,113,1); }
+
+	.symbol-title {
+		color: rgba(46,204,113,1);
+	}
+
+	button, #submit, .sh-btn, .sh-format .vc_read_more {
+		background: rgba(46,204,113,1);
+		color: #fff;
+	}
+
+	button:hover, .sh-btn:hover, #submit:hover, .vc_read_more:hover {
+		background: rgba(46,204,113,0.8);
+	}
+
+	.tagcloud a:hover {
+		background-color: rgba(46,204,113,1);
+		color: #fff;
+	}
+
+	/* vc custom styles */
+
+	.sh-grid1 ul.categories_filter li a:hover,
+	.sh-grid1 ul.categories_filter li a:active {
+    	border: 1px solid rgba(46,204,113,1) !important;
+		color: rgba(46,204,113,1);
+	}
+
+	.sh-grid1.wpb_teaser_grid .categories_filter li.active a,
+	.sh-grid1.wpb_categories_filter li.active a {
+    	border: 1px solid rgba(46,204,113,1) !important;
+		color: rgba(46,204,113,1);
+	}
+
+	/* End vc custom styles */
+
+	/* Portfolios */
+
+	.portfolio-item .port-zoom {
+		color: #fff;
+        background-color: rgba(46,204,113,1);
+	}
+
+	.portfolio-item .port-link {
+		color: #fff;
+        background-color: rgba(46,204,113,1);
+    }
+
+	.portfolio-item2  .port-holder {
+		 background: -webkit-linear-gradient(0deg, rgba(46,204,113,1), rgba(46,204,113,0.8) 80%) no-repeat;
+    	background: linear-gradient(0deg, rgba(46,204,113,1), rgba(46,204,113,0.8) 80%) no-repeat;
+	}
+
+    .port-cats ul li a:hover,
+    .port-cats ul li a:active {
+        color: rgba(46,204,113,1);
+    }
+
+    .port-cats ul li a.active {
+        color: rgba(46,204,113,1);
+    }
+
+	.timeline-badge {
+		background-color: rgba(46,204,113,1);
+	}
+
+	.top-cart-amount {
+		color: #ffffff;
+		background-color: rgba(46,204,113,1);
+	}
+
+		/* buttons */
+	.woocommerce-page div.product form.cart .button, 
+	.woocommerce-page #content div.product form.cart .button,
+	.woocommerce-page input.checkout-button.wc-forward,
+	.woocommerce-page input#place_order {
+        background: rgba(46,204,113,1);
+        color: #fff;
+		border: 1px solid rgba(46,204,113,1);
+    }
+
+	.woocommerce-page div.product form.cart .button:hover, 
+    .woocommerce-page #content div.product form.cart .button:hover, 
+    .woocommerce-page input.checkout-button.wc-forward:hover,
+	.woocommerce-page input#place_order:hover {
+        background: rgba(46,204,113,0.8);
+        color: #fff;
+        border: 1px solid rgba(46,204,113,1);
+    }
+
+		/* messages */
+	
+
+
+	.star-rating span {
+		color: rgba(46,204,113,1);
+	}
+
+	.star-rating:hover span {
+		color: rgba(46,204,113,0.8);
+	}
+
+	.woo-added-notice-inner { background: rgba(46,204,113,0.8); }
+
+	.woocommerce .widget_price_filter .ui-slider .ui-slider-range, 
+	.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range {
+		background-image:none;
+		background-color: rgba(46,204,113,0.8);
+	}
+
+	.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, 
+	.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {
+		background: rgba(46,204,113,1);
+		border: none;
+	}
+
+	.woocommerce-pagination .page-numbers a {
+        background: rgba(46,204,113,1);
+    }
+
+	.woocommerce nav.woocommerce-pagination ul li span.current, 
+	.woocommerce nav.woocommerce-pagination ul li a:hover, 
+	.woocommerce nav.woocommerce-pagination ul li a:focus, 
+	.woocommerce #content nav.woocommerce-pagination ul li span.current, 
+	.woocommerce #content nav.woocommerce-pagination ul li a:hover, 
+	.woocommerce #content nav.woocommerce-pagination ul li a:focus, 
+	.woocommerce-page nav.woocommerce-pagination ul li span.current, 
+	.woocommerce-page nav.woocommerce-pagination ul li a:hover, 
+	.woocommerce-page nav.woocommerce-pagination ul li a:focus, 
+	.woocommerce-page #content nav.woocommerce-pagination ul li span.current, 
+	.woocommerce-page #content nav.woocommerce-pagination ul li a:hover, 
+	.woocommerce-page #content nav.woocommerce-pagination ul li a:focus {
+
+        background: rgba(46,204,113,0.8);
+		color: #fff;
+    }
+
+    .woocommerce-pagination .page-numbers a:hover {
+        background: rgba(46,204,113,0.8);
+    }

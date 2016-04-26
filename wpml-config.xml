@@ -1,0 +1,140 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">shop_webhook</custom-type>
+    <custom-type translate="1">wafs</custom-type>
+	<custom-type translate="1">portfolio_entry</custom-type>
+    <custom-type translate="1">people</custom-type>
+  </custom-types>
+  <taxonomies>
+	<taxonomy translate="1">portcat</taxonomy>
+    <taxonomy translate="1">peoplecat</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="translate">blog_grid</custom-field>
+    <custom-field action="translate">blog_layout</custom-field>
+    <custom-field action="translate">blog_sidebar</custom-field>
+    <custom-field action="translate">blog_stand_sidebar</custom-field>
+    <custom-field action="translate">blog_time_sidebar</custom-field>
+    <custom-field action="translate">person_link</custom-field>
+    <custom-field action="translate">person_name</custom-field>
+    <custom-field action="translate">person_quick</custom-field>
+    <custom-field action="translate">person_title</custom-field>
+    <custom-field action="translate">portfolio_grid</custom-field>
+    <custom-field action="translate">portfolio_ratio</custom-field>
+    <custom-field action="translate">portfolio_rpp</custom-field>
+    <custom-field action="translate">portfolio_sidebar</custom-field>
+    <custom-field action="translate">portfolio_size</custom-field>
+    <custom-field action="translate">slide_template</custom-field>
+    <custom-field action="translate">social_icon</custom-field>
+    <custom-field action="translate">social_link</custom-field>
+    <custom-field action="translate">video_id</custom-field>
+    <custom-field action="translate">video_poster</custom-field>
+    <custom-field action="translate">video_type</custom-field>
+    <custom-field action="translate">_post_like_count</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="shcreate">
+      <key name="last_tab"/>
+      <key name="layout"/>
+      <key name="small-logo">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="favicon">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="retina-support"/>
+      <key name="site-font">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="font-weight"/>
+        <key name="font-style"/>
+        <key name="subsets"/>
+        <key name="text-align"/>
+        <key name="font-size"/>
+        <key name="line-height"/>
+        <key name="color"/>
+      </key>
+      <key name="background-option"/>
+      <key name="color-background"/>
+      <key name="background-image">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="color-accent"/>
+      <key name="link-color"/>
+      <key name="above-nav"/>
+      <key name="above-nav-border"/>
+      <key name="header-text"/>
+      <key name="above-color"/>
+      <key name="above-bg-color"/>
+      <key name="above-link-color"/>
+      <key name="menu-search-option"/>
+      <key name="menu-language-select"/>
+      <key name="nav-option"/>
+      <key name="menu-bg-option"/>
+      <key name="menu-bg-color"/>
+      <key name="menu-font-color"/>
+      <key name="breadcrumb-enable"/>
+      <key name="breadcrumb-option"/>
+      <key name="breadcrumb-bg">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="breadcrumb-bg-option"/>
+      <key name="breadcrumb-font-color"/>
+      <key name="breadcrumb-link-color"/>
+      <key name="top-slider"/>
+      <key name="top-slider-bg"/>
+      <key name="top-slider-font"/>
+      <key name="top-slider-link"/>
+      <key name="top-slider-header"/>
+      <key name="top-slider-columns"/>
+      <key name="footerw-enable"/>
+      <key name="footerw-columns"/>
+      <key name="footerw-bg-option"/>
+      <key name="footerw-bg-color"/>
+      <key name="footerw-font-color"/>
+      <key name="footerw-header-color"/>
+      <key name="footer-enable"/>
+      <key name="footer-text"/>
+      <key name="footer-bg-option"/>
+      <key name="footer-bg-color"/>
+      <key name="footer-font-color"/>
+      <key name="blog-attributes">
+        <key name="0"/>
+        <key name="1"/>
+        <key name="2"/>
+        <key name="3"/>
+        <key name="4"/>
+        <key name="5"/>
+      </key>
+      <key name="blog-right-left"/>
+      <key name="blog-layout"/>
+      <key name="woo-sidebar"/>
+      <key name="woo-transition"/>
+      <key name="update-validation"/>
+      <key name="update-mojo-code"/>
+      <key name="update-themeforest-code"/>
+      <key name="update-custom-code"/>
+      <key name="import-demo-option"/>
+      <key name="background-pattern"/>
+      <key name="menu-bg-pattern"/>
+      <key name="footerw-bg-pattern"/>
+    </key>
+  </admin-texts>
+</wpml-config>

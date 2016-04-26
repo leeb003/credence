@@ -1,0 +1,406 @@
+/* Start: Recommended Isotope styles */
+
+/**** Isotope Filtering ****/
+
+.isotope-item {
+  z-index: 2;
+}
+
+.isotope-hidden.isotope-item {
+  pointer-events: none;
+  z-index: 1;
+}
+
+/**** Isotope CSS3 transitions ****/
+
+.isotope,
+.isotope .isotope-item {
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+      -ms-transition-duration: 0.8s;
+       -o-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+      -ms-transition-property:     -ms-transform, opacity;
+       -o-transition-property:      -o-transform, opacity;
+          transition-property:         transform, opacity;
+}
+/* Specific to blog grids */
+/*
+.blog-grid-full.isotope .grid-post {
+    position: static ! important;
+    -webkit-transform: translate(0px, 0px) ! important;
+       -moz-transform: translate(0px, 0px) ! important;
+            transform: translate(0px, 0px) ! important;
+  }
+  */
+/* Specific to portfolios */
+@media (min-width: 1000px) {
+	/* slight size fix for portfolio 4 columns lining up in same rows */
+	/*
+	.portfolio-grid .col-md-2 {
+		width: 16.5%;
+    }
+
+	.portfolio-grid .col-md-3 {
+		width: 24.98%;
+	}
+
+	.portfolio-grid .col-md-4 {
+		width: 32.98%;
+	}
+	*/
+}
+
+/* End: Recommended Isotope styles */
+
+/**** disabling Isotope CSS3 transitions ****/
+/*
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  -webkit-transition-duration: 0s;
+     -moz-transition-duration: 0s;
+      -ms-transition-duration: 0s;
+       -o-transition-duration: 0s;
+          transition-duration: 0s;
+}
+*/
+/* custom grid formatted entries */
+
+/* Portfolio styles */
+.portfolio-grid .portfolio-item {
+	padding: 5px;
+}
+
+.portfolio .sidebar {
+	margin-top: 40px;
+}
+
+.portfolio-grid {
+	margin-bottom: 40px;
+	margin-left: -5px;  /* adjust for even columns */
+	margin-right: -5px;
+}
+
+.portfolio-grid.no-margin {  /* layouts without space between items - single px margin */
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.port-cats {
+	margin-bottom: 40px;
+	margin-top: 40px;
+	overflow: auto;
+}
+
+.port-cats ul.left-options {
+	padding-left: 0;
+	display: inline-block;
+	float: left;
+	margin: 5px;
+	margin-left: 15px;
+}
+
+.port-cats ul.right-options {
+	margin: 5px;
+	margin-right: 15px;
+	display: inline-block;
+	float: right;
+}
+
+.port-cats li {
+    display: inline-block;
+}
+
+.port-cats .term-count {
+    font-size: 12px;
+    padding-left: 5px;
+    font-weight: 100;
+}
+
+.port-cats ul li a {
+    padding: 5px 10px !important;
+}
+
+/* Portfolio style 1 */
+
+.portfolio-grid .img-responsive {
+	-webkit-transition-duration: 0.5s;
+     -moz-transition-duration: 0.5s;
+      -ms-transition-duration: 0.5s;
+       -o-transition-duration: 0.5s;
+          transition-duration: 0.5s;
+	padding: 0;
+    border: 0;
+    border-radius: 0;
+    z-index: 5;
+    position: relative;
+	margin: 0;
+    /* fix for images not shrinking correctly */
+    width: 100%;
+}
+
+.portfolio-grid .portfolio-item .port-img {
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 0px;
+}
+
+.portfolio-grid .portfolio-item .item-overlay {
+	z-index: 10;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background-color: rgba(255,255,255, 0.5);
+	opacity: 0;
+	  -webkit-transition-duration: 0.5s;
+     -moz-transition-duration: 0.5s;
+      -ms-transition-duration: 0.5s;
+       -o-transition-duration: 0.5s;
+          transition-duration: 0.5s;
+}
+
+.portfolio-item .port-holder {
+    width: 100px;
+    margin: -25px auto 0px -50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.portfolio-item .port-link {
+    text-align: center;
+    font-size: 15px;
+    line-height: 30px;
+    width: 40px;
+    position: absolute;
+    right: 150%;
+	background-color: #fff;
+	-webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+	z-index: 10;
+}
+
+.portfolio-item .port-zoom {
+    text-align: center;
+    font-size: 15px;
+    line-height: 30px;
+    width: 40px;
+    position: absolute;
+    left: 150%;
+	background-color: #fff;
+	-webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+	z-index: 10;
+}
+
+.portfolio-item .port-desc {
+	text-align: center;
+	position: absolute;
+	bottom: -40px;
+	-webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+	width: 100%;
+	background: rgba(255,255,255,1);
+	font-size: 12px;
+	z-index: 5;
+}
+
+.portfolio-item .port-desc h6 {
+	line-height: 20px;
+	margin: 5px;
+	font-weight: bold;
+}
+
+.portfolio-grid .portfolio-item .port-img:hover .thumbnail {
+	-webkit-transform: scale(1.5);
+	transform: scale(1.5);
+}
+
+.portfolio-item .port-img:hover .port-link {
+    right: -5%;
+}
+
+.portfolio-item .port-img:hover .port-zoom {
+    left: -5%;
+}
+
+.portfolio-item .port-img:hover .port-desc {
+	bottom:0;
+}
+
+.portfolio-grid .portfolio-item .port-img:hover .item-overlay {
+	opacity: 1;
+}
+
+
+/* End Portfolio Style 1 */
+
+/* Portfolio Style 2 */
+.portfolio-grid .portfolio-item2 {
+    padding: 0px;
+}
+
+.portfolio-item2 .port-img {
+	position: relative;
+	overflow: hidden;
+}
+
+.portfolio-item2  .port-holder {
+	text-align: center;
+	width: 100%;
+	height: 100%;
+    position: absolute;
+    left: -100%;
+	z-index: 10;
+	-webkit-transition-duration: 0.5s;
+     -moz-transition-duration: 0.5s;
+      -ms-transition-duration: 0.5s;
+       -o-transition-duration: 0.5s;
+          transition-duration: 0.5s;
+	opacity: 0;
+}
+
+.portfolio-item2 .port-holder:before, .port-content {
+	display: inline-block;
+	vertical-align: middle;
+} 
+
+.portfolio-item2 .port-holder:before {
+	content: '';
+	display: inline-block;
+	height: 100%;
+	vertical-align: middle;
+	margin-left: -0.25em;
+}
+
+
+.portfolio-item2 .port-content {
+	height: 120px;
+	color: #fff;
+}
+
+.portfolio-item2 .port-img:hover .port-holder {
+	opacity: 1;
+	left: 0;
+}
+
+.portfolio-item2 a {
+	margin: 10px;
+}
+
+.portfolio-item2 .port-link {
+    text-align: center;
+    font-size: 15px;
+    line-height: 40px;
+    width: 40px;
+    background-color: #fff;
+	display: inline-block;
+	border-radius: 50%;
+	box-shadow: 0 0 8px #555;
+}
+
+.portfolio-item2 .port-zoom {
+    text-align: center;
+    font-size: 15px;
+    line-height: 40px;
+    width: 40px;
+    background-color: #fff;
+	display: inline-block;
+	border-radius: 50%;
+	box-shadow: 0 0 8px #555;
+}
+
+.portfolio-item2 .port-title {
+	display: inline-block;
+}
+
+.portfolio-item2 h6 {
+	color: #fff;
+	text-shadow: 0 0 4px #555;
+}
+
+.portfolio-item2 .port-desc {
+	display: block;
+	margin-top: 10px;
+	text-shadow: 0 0 4px black;
+}
+
+/* End Portfolio Style 2 */
+
+/* End Portfolio Styles */
+
+/*
+.blog-grid-full {
+	height: 100% !important;
+}
+*/
+
+.blog-grid-full .grid-post .post-title {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+
+.blog-grid-full .grid-post-content
+{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.blog-grid-full .grid-post ul.bxslider li .img-responsive {
+	width: 100%;
+}
+
+.blog-grid-full .grid-post .entry-thumbnail img {
+	width: 100%;
+}
+
+.blog-grid-full .grid-post .grid-top-meta {
+	font-size: 12px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+
+.blog-grid-full .grid-post .grid-bottom-meta {
+	margin: 20px 0;
+	font-size: 12px;
+}
+
+.blog-grid-full .grid-post .post {
+    border: 1px solid rgba(0,0,0,0.15);
+}
+
+.grid-top-meta {
+    border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+
+.grid-bottom-meta a.jm-post-like {
+	font-size: 12px;
+}
+
+.grid-bottom-meta span {
+	display: inline-block;
+}
+
+.grid-bottom-meta span:first-child {
+	margin-right: 10px;
+}
+
+.grid-bottom-meta span.bottom-read {
+	float: right;
+}

@@ -1,0 +1,164 @@
+
+#style-switcher {
+	position: fixed;
+	z-index: 99999;
+	top: 180px;
+	width: 250px;
+	color: #333333;
+	border-bottom-right-radius: 3px;
+}
+
+.style-switcher-hidden {
+	display: none;
+}
+
+.style-switcher-top {
+	padding: 15px 10px 15px 20px;
+	margin-right: -50px;
+	position: relative;
+	cursor: pointer;
+	color: #333;
+	background-color: #fff;
+	border-radius: 0px 3px 3px 0px;
+	box-shadow: 0px 0px 4px 4px rgba(0,0,0,0.16);
+	z-index: -1;
+}
+
+.style-switcher-top i {
+	float: right;
+	font-size: 25px;
+}
+
+.style-switcher-body {
+	padding: 10px 20px;
+	overflow: hidden;
+	background-color: #ffffff;
+	box-shadow: 4px 4px 4px rgba(0,0,0,0.16);
+}
+
+.ss-sep {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+
+.ss-layout, .ss-header {
+	background: #efefef;
+	color: #333333;
+	border: 1px solid rgba(0,0,0,0.25);
+	padding: 5px;
+	width: 100%;
+}
+
+.ss-bg {
+	margin-top: 10px;
+	padding-bottom: 10px;
+	overflow: hidden;
+}
+
+.ss-bg a {
+	float: left;
+	margin: 10px 10px 0px 0px;
+}
+
+.ss-bg a img {
+	width: 20px;
+	height: 20px;
+	border: 2px solid #777;
+}
+
+/* Accent colors */
+.ss-accent, .ss-pagecolor {
+	clear: both;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	overflow: hidden;
+	border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+
+.ss-accent {
+	margin-bottom: 20px;
+}
+
+.ss-accent a , .ss-pagecolor a {
+	float: left;
+	margin: 10px 5px 0px 0px;
+	padding: 0;
+	border: 1px solid #111111;
+}
+
+span.accent-color, span.page-color {
+	width: 20px;
+	height: 20px;
+	/*border: 2px solid #777;*/
+	display: block;
+}
+
+.white {
+	background-color: #ffffff;
+}
+
+.dark {
+	background-color: #333333;
+}
+
+.turquoise {
+	background-color: #1abc9c;
+}
+.emerald {
+	background-color: #2ecc71;
+}
+.blue {
+	background-color: #3498db;
+}
+.amethyst {
+	background-color: #9b59b6;
+}
+.wetasphalt {
+	background-color: #34495e;
+}
+.sunflower {
+	background-color: #f1c40f;
+}
+.carrot {
+	background-color: #e67e22;
+}
+.alizarin {
+	background-color: #e74c3c;
+}
+.silver {
+	background-color: #bdc3c7;
+}
+.concrete {
+	background-color: #95a5a6;
+}
+
+.ss-desc {
+	clear: both;
+	margin-top: 10px;
+}
+
+.ss-small {
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.nopad-top-bottom {
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
+
+@media only screen and (max-width: 767px) {
+	#style-switcher{ display:none; }
+}
+/* popovers */
+.switcher-popover {
+	z-index:999999;
+}
+#style-switcher .sh-popover {
+	float: right;
+	color: #333333;
+}
+.feat-title {
+	margin-bottom:10px;
+}
