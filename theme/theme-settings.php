@@ -705,7 +705,7 @@ class ThemeSettings {
         $menu_key = 'nav-menu';
         foreach ($nav_menus as $k => $v) {
             if ($k == $menu_key) {
-				$menu_id = apply_filters( 'wpml_object_id', $v, $menu_key, TRUE );
+				$menu_id = apply_filters( 'wpml_object_id', $v, 'nav_menu', TRUE );
                 foreach ($all_menus as $all => $m) {
                     if ($menu_id == $m->term_id) {
                         $menu_name = $m->name;
@@ -726,7 +726,7 @@ class ThemeSettings {
         $menu_key = 'main-side-menu';
         foreach ($nav_menus as $k => $v) {
             if ($k == $menu_key) {
-				$menu_id = apply_filters( 'wpml_object_id', $v, $menu_key, TRUE );
+				$menu_id = apply_filters( 'wpml_object_id', $v, 'nav_menu', TRUE );
                 foreach ($all_menus as $all => $m) {
                     if ($menu_id == $m->term_id) {
                         $menu_name = $m->name;
@@ -748,7 +748,7 @@ class ThemeSettings {
         $menu_key = 'footer-menu';
         foreach ($nav_menus as $k => $v) {
             if ($k == $menu_key) {
-				$menu_id = apply_filters( 'wpml_object_id', $v, $menu_key, TRUE );
+				$menu_id = apply_filters( 'wpml_object_id', $v, 'nav_menu', TRUE );
                 foreach ($all_menus as $all => $m) {
                     if ($menu_id == $m->term_id) {
                         $menu_name = $m->name;
@@ -769,7 +769,7 @@ class ThemeSettings {
 		$menu_key = 'side-menu';
 		foreach ($nav_menus as $k => $v) {
             if ($k == $menu_key) {
-				$menu_id = apply_filters( 'wpml_object_id', $v, $menu_key, TRUE );
+				$menu_id = apply_filters( 'wpml_object_id', $v, 'nav_menu', TRUE );
                 foreach ($all_menus as $all => $m) {
                     if ($menu_id == $m->term_id) {
                         $menu_name = $m->name;
