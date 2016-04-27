@@ -404,10 +404,10 @@ class themeAdmin {
 			// Screets Live Chat
 			array(
 				'name'                  => 'Live Chat', // The plugin name
-                'slug'                  => 'screets-chat', // The plugin slug (typically the folder name)
+                'slug'                  => 'screets-lc', // The plugin slug (typically the folder name)
 				'source'                => $storage . 'Live_Chat.zip',
                 'required'              => false, // If false, the plugin is only 'recommended' instead of required
-                'version'               => '1.5',
+                'version'               => '2.0.3',
                 'force_activation'      => false,
                 'force_deactivation'    => false,
                 'external_url'          => '', // If set, overrides default API URL and points to an external URL
