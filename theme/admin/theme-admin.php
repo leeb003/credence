@@ -363,7 +363,7 @@ class themeAdmin {
 				'slug'     				=> 'js_composer', // The plugin slug (typically the folder name)
 				'source'                => $storage . 'js_composer.zip',
 				'required' 				=> false, // If false, the plugin is only 'recommended' instead of required
-				'version' 				=> '4.11.2.1',
+				'version' 				=> '4.12',
 				'force_activation' 		=> false, 
 				'force_deactivation' 	=> false, 
 				'external_url' 			=> '', // If set, overrides default API URL and points to an external URL
@@ -374,7 +374,7 @@ class themeAdmin {
 				'slug'					=> 'LayerSlider',
 				'source'                => $storage . 'layersliderwp.zip',
 				'required'				=> false,
-				'version'				=> '5.6.8',
+				'version'				=> '5.6.9',
 				'force_activation'   	=> false,
 				'force_deactivation'	=> false,
 				'external_url'			=> ''
@@ -385,7 +385,7 @@ class themeAdmin {
                 'slug'                  => 'revslider',
 				'source'                => $storage . 'revslider.zip',
                 'required'              => false,
-                'version'               => '5.2.5.2',
+                'version'               => '5.2.6',
                 'force_activation'      => false,
                 'force_deactivation'    => false,
                 'external_url'          => ''
