@@ -543,7 +543,7 @@ button, .wysija-submit, #submit {
 }
 
 /* Secondary Top Menu */
-.nav-menu-secondary {
+.navbar .nav-header-collapse  ul.navbar-nav.nav-menu-secondary {
 	list-style: none;
 	display: inline-block;
 	float: right;
@@ -551,9 +551,6 @@ button, .wysija-submit, #submit {
 	overflow: hidden;
 }
 
-.nav-menu-secondary li {
-	float: left;
-}
 .nav-menu-secondary>li>a {
 	display: block;
 	padding: 0 10px;
@@ -2466,11 +2463,6 @@ li.icl-menu>ul.dropdown-menu {
 .icl-menu > ul > li {
     float: none;
 }
-@media (max-width: 991px) {
-    .icl-menu > .dropdown-menu {
-        display:block;
-    }
-}
 /* End WPML Dropdown Style */
 
 /*
@@ -2831,7 +2823,8 @@ input.user-submit.sh-btn {
 }
 
 @media screen and (max-width: 991px) {
-	.navbar-nav { float: left;width: 100%;}
+	.navbar-nav, .nav-menu-secondary { float: left;width: 100%;}
+	.nav-menu-secondary > li { width: 100%; }
     .navbar-nav > li.active:after {border-bottom-color: transparent;}
 	.navbar-nav > li > a {
 		padding-top:5px !important; 
@@ -2840,7 +2833,8 @@ input.user-submit.sh-btn {
 	}
 	
 	/* top link changes */
-	.navbar-nav > li > a > .nav-link-down {
+	.navbar-nav > li > a > .nav-link-down,
+	.nav-menu-secondary > li > a > .nav-link-down {
         float: right;
         margin-right: 10px;
         line-height: 30px;
@@ -2868,6 +2862,16 @@ input.user-submit.sh-btn {
 
     .navbar-nav .open .dropdown-menu {
         width: 100%;
+    }
+
+	.nav-menu-secondary .open .dropdown-menu {
+        width: 100%:
+        position: static;
+        float: none;
+        background-color: transparent;
+    }       
+    .nav-menu-secondary .open .dropdown-menu > li > a {
+        padding: 5px 15px 5px 25px !important;
     }
 
 	/* end top link changes */

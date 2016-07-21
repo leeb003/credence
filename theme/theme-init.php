@@ -115,7 +115,10 @@
 					foreach( $existing_languages as $lang ){
 						if ($lang['active']) {
 							$extra_class = ' class="menu-item dropdown icl-menu"';
-							$icl .= sprintf( "<li%s><a href='%s' class='dropdown-toggle'><img src='%s' alt='%s'>%s</a>",
+							$icl .= sprintf( '<li' . "%s" . '><a href="' . "%s" . '" class="dropdown-toggle"'
+									. ' data-toggle="dropdown">'
+									. '<span class="nav-link-href"><img src="' . "%s" . '" alt="' . "%s" . '">%s</span>'
+									. ' <span class="nav-link-down fa fa-angle-down"> </span></a>',
               					$extra_class,
                					$lang['url'],
 								$lang['country_flag_url'],
@@ -123,13 +126,14 @@
                					$lang['native_name']
            					);
 							if ($count > 1) {  // Only create the dropdown if there is more than the current language
-								$icl .= '<ul class="dropdown-menu">';
+								$icl .= '<ul class="dropdown-menu" role="menu">';
 							}
 						}
 					}
 					foreach ( $existing_languages as $lang ) {
 						if (!$lang['active']) {
-							$icl .= sprintf( "<li><a href='%s'><img src='%s' alt='%s'>%s</a></li>",
+							$icl .= sprintf( '<li class="menu-item"><a href="' . "%s" . '"><img src="' . "%s" . '" alt="' 
+									. "%s" . '">' . "%s" . '</a></li>',
 								$lang['url'],
 								$lang['country_flag_url'],
 								$lang['native_name'],

@@ -488,7 +488,10 @@ $main_sidebar
 
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a, 
 .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, 
-.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
+.navbar-default .nav-menu-secondary .open .dropdown-menu > .active > a,
+.navbar-default .nav-menu-secondary .open .dropdown-menu > .active > a:hover,
+.navbar-default .nav-menu-secondary .open .dropdown-menu > .active > a:focus {
 	background-color: {$shcreate['dropdown-bg-color']['rgba']};
     color: {$shcreate['dropdown-font-color']};
 }
@@ -555,12 +558,15 @@ $centered_primary
 
 @media (max-width: 991px) {
 	.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
-	.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
+	.navbar-default .nav-menu-secondary .open .dropdown-menu > li > a:hover,
+	.navbar-default .nav-menu-secondary .open .dropdown-menu > li > a:focus {
 		color: $accent_color;
 		background-color: {$shcreate['dropdown-bg-color']['rgba']};
 	}
 
-	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a,
+	.navbar-default .nav-menu-secondary .open .dropdown-menu > li > a {
 		color: {$shcreate['menu-font-color']};
 	}
 }

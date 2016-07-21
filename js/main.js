@@ -27,13 +27,15 @@ jQuery(function ($) {  // use $ for jQuery
 			winIsSmall = $(window).width() < 992;
 			if (winIsSmall) { // reset menu
 				$('.navbar .dropdown ul.dropdown-menu [data-toggle=dropdown]').find('.open').removeClass('open');
+				$('.nav-menu-secondary .dropdown ul.dropdown-menu [data-toggle=dropdown]').find('.open').removeClass('open');
 				$('.dropdown-menu').removeAttr('style');  // Remove styles set by slideUp/Down (display:none)
+				
 			}
 		}
 
 		$(window).on('load resize', testWinSize);
 
-		$('.navbar .dropdown').hover(function() {
+		$('.navbar .dropdown, .nav-menu-secondary .dropdown').hover(function() {
 			if(!winIsSmall) {
   				$(this).find('.dropdown-menu').first().stop(true, true).delay(150).slideDown(200);
 			}
@@ -43,7 +45,7 @@ jQuery(function ($) {  // use $ for jQuery
 			}
 		});
 		// submenus
-		$('.navbar .dropdown-menu .menu-item').hover(function() {
+		$('.navbar .dropdown-menu .menu-item, .nav-menu-secondary .dropdown-menu .menu-item').hover(function() {
 			if(!winIsSmall) {
 				$(this).toggleClass('open');
 			}

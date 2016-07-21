@@ -172,7 +172,7 @@ if ($menu_name) {
                     		'theme_location' => 'nav-menu-secondary',
                     		'container' => false,
                     		'depth' => 1,
-                    		'menu_class' => 'nav-menu-secondary'
+                    		'menu_class' => 'navbar-nav nav-menu-secondary'
                     	));
 					} ?>
 
