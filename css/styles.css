@@ -258,12 +258,17 @@ ul.side-social {
   width: 100%;
   position: relative;
 }
+.title-section .row .col-md-12 {
+  display: flex;
+  align-items: center;
+}
 .title-section h1 {
   display: inline-block;
   font-size: 20px;
   letter-spacing: normal;
   line-height: 1;
   margin-top: 15px;
+  margin-bottom: 15px;
 }
 .breadcrumbs {
   list-style: none;
@@ -271,6 +276,7 @@ ul.side-social {
   overflow: hidden;
   float: right;
   display: inline-block;
+  margin-left: auto;
 }
 .breadcrumbs li {
   float: left;
@@ -281,6 +287,14 @@ ul.side-social {
 }
 .breadcrumbs .separator {
   font-weight: 700;
+}
+@media (max-width: 767px) {
+  .title-section .row .col-md-12 {
+    display: block;
+  }
+  .breadcrumbs {
+    float: left;
+  }
 }
 /* End Breadcrumbs */
 /* Elastic featured videos */
@@ -912,6 +926,9 @@ ul.footer-menu,
 .widget_flickr_widget {
   max-width: 350px;
 }
+.widget_flickr_widget .sidebar-section {
+  margin-bottom: 15px;
+}
 .tabbed-login-widget input {
   padding: 10px;
 }
@@ -1138,6 +1155,7 @@ li.twitter-item abbr {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  margin-top: 15px;
 }
 .sh-insta-thumb:after {
   content: "";
@@ -1177,6 +1195,9 @@ li.twitter-item abbr {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+.sh-insta-thumb ul li::before {
+  content: none;
 }
 .sh-insta-thumb .sh_col_1 > li {
   width: 100%;

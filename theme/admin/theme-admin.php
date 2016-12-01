@@ -363,7 +363,7 @@ class themeAdmin {
 				'slug'     				=> 'js_composer', // The plugin slug (typically the folder name)
 				'source'                => $storage . 'js_composer.zip',
 				'required' 				=> false, // If false, the plugin is only 'recommended' instead of required
-				'version' 				=> '4.12',
+				'version' 				=> '5.0.1',
 				'force_activation' 		=> false, 
 				'force_deactivation' 	=> false, 
 				'external_url' 			=> '', // If set, overrides default API URL and points to an external URL
@@ -374,7 +374,7 @@ class themeAdmin {
 				'slug'					=> 'LayerSlider',
 				'source'                => $storage . 'layersliderwp.zip',
 				'required'				=> false,
-				'version'				=> '5.6.9',
+				'version'				=> '6.0.6',
 				'force_activation'   	=> false,
 				'force_deactivation'	=> false,
 				'external_url'			=> ''
@@ -385,7 +385,7 @@ class themeAdmin {
                 'slug'                  => 'revslider',
 				'source'                => $storage . 'revslider.zip',
                 'required'              => false,
-                'version'               => '5.2.6',
+                'version'               => '5.3.0.2',
                 'force_activation'      => false,
                 'force_deactivation'    => false,
                 'external_url'          => ''
@@ -401,7 +401,8 @@ class themeAdmin {
                 'force_deactivation'    => false,
                 'external_url'          => '', // If set, overrides default API URL and points to an external URL
             ),
-			// Screets Live Chat
+			// Screets Live Chat - Discontinued inclusion
+			/*
 			array(
 				'name'                  => 'Live Chat', // The plugin name
                 'slug'                  => 'screets-lc', // The plugin slug (typically the folder name)
@@ -412,13 +413,14 @@ class themeAdmin {
                 'force_deactivation'    => false,
                 'external_url'          => '', // If set, overrides default API URL and points to an external URL
 			),
+			*/
 			// Essential Grid
 			array(
                 'name'                  => 'Essential Grid', // The plugin name
                 'slug'                  => 'essential-grid', // The plugin slug (typically the folder name)
 				'source'                => $storage . 'essential-grid.zip',
                 'required'              => false, // If false, the plugin is only 'recommended' instead of required
-                'version'               => '2.0.9.1',
+                'version'               => '2.1.0.2',
                 'force_activation'      => false,
                 'force_deactivation'    => false,
                 'external_url'          => '', // If set, overrides default API URL and points to an external URL
