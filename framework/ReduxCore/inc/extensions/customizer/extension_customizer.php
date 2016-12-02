@@ -1,6 +1,6 @@
 <?php
     // <input type="radio" value="1" name="_customize-radio-redux_demo[opt-radio]" data-customize-setting-link="redux_demo[opt-color-title]">
-//return;
+    //return;
     /**
      * Redux Framework is free software: you can redistribute it and/or modify
      * it under the terms of the GNU General Public License as published by
@@ -18,12 +18,12 @@
      * @version     0.1.0
      */
 
-// Exit if accessed directly
+    // Exit if accessed directly
     if ( ! defined( 'ABSPATH' ) ) {
         exit;
     }
 
-// Don't duplicate me!
+    // Don't duplicate me!
     if ( ! class_exists( 'ReduxFramework_extension_customizer' ) ) {
 
         /**
@@ -60,10 +60,11 @@
                 $this->parent = $parent;
 
                 $this->upload_dir = ReduxFramework::$_upload_dir . 'advanced-customizer/';
-                $this->upload_url = ReduxFramework::$_upload_url . 'advanced-customizer/';
 
                 //add_action('wp_head', array( $this, '_enqueue_new' ));
-
+                if ( $parent->args['customizer'] == false ) {
+                    return;
+                }
 
                 // Override the ReduxCore class
                 add_filter( "redux/extension/{$this->parent->args['opt_name']}/customizer", array(
@@ -78,7 +79,6 @@
                 if ( ( $pagenow !== "customize.php" && $pagenow !== "admin-ajax.php" && ! isset( $GLOBALS['wp_customize'] ) ) ) {
                     //return;
                 }
-
 
                 if ( empty( $this->_extension_dir ) ) {
                     $this->_extension_dir = trailingslashit( str_replace( '\\', '/', dirname( __FILE__ ) ) );
@@ -137,7 +137,7 @@
 
             function enqueue_controls_css() {
 
-                include_once( ReduxFramework::$_dir . 'core/enqueue.php' );
+                require_once ReduxFramework::$_dir . 'core/enqueue.php';
                 $enqueue = new reduxCoreEnqueue ( $this->parent );
                 $enqueue->get_warnings_and_errors_array();
                 $enqueue->init();
@@ -260,23 +260,23 @@
             public function _register_customizer_controls( $wp_customize ) {
 
                 if ( ! class_exists( 'Redux_Customizer_Section' ) ) {
-                    include_once dirname( __FILE__ ) . '/inc/customizer_section.php';
+                    require_once dirname( __FILE__ ) . '/inc/customizer_section.php';
                     if ( method_exists( $wp_customize, 'register_section_type' ) ) {
                         $wp_customize->register_section_type( 'Redux_Customizer_Section' );
                     }
                 }
                 if ( ! class_exists( 'Redux_Customizer_Panel' ) ) {
-                    include_once dirname( __FILE__ ) . '/inc/customizer_panel.php';
+                    require_once dirname( __FILE__ ) . '/inc/customizer_panel.php';
                     if ( method_exists( $wp_customize, 'register_panel_type' ) ) {
                         $wp_customize->register_panel_type( 'Redux_Customizer_Panel' );
                     }
                 }
                 if ( ! class_exists( 'Redux_Customizer_Control' ) ) {
-                    include_once dirname( __FILE__ ) . '/inc/customizer_control.php';
+                    require_once dirname( __FILE__ ) . '/inc/customizer_control.php';
                 }
 
-                include_once dirname( __FILE__ ) . '/inc/customizer_fields.php';
-                include_once dirname( __FILE__ ) . '/inc/customizer_devs.php';
+                require_once dirname( __FILE__ ) . '/inc/customizer_fields.php';
+                require_once dirname( __FILE__ ) . '/inc/customizer_devs.php';
 
                 do_action( "redux/extension/customizer/control/includes" );
 
@@ -453,6 +453,10 @@
                         ), $wp_customize );
                     }
 
+                    if ( ! isset( $section['fields'] ) || ( isset( $section['fields'] ) && empty( $section['fields'] ) ) ) {
+                        continue;
+                    }
+
                     foreach ( $section['fields'] as $skey => $option ) {
 
                         if ( isset( $option['customizer'] ) && $option['customizer'] === false ) {
@@ -510,7 +514,7 @@
                                     //'capabilities'      => 'edit_theme_options',
                                     //'capabilities'   => $this->parent->args['page_permissions'],
                                     'transport'         => 'refresh',
-                                    'opt_name'    => $this->parent->args['opt_name'],
+                                    'opt_name'          => $this->parent->args['opt_name'],
                                     //'theme_supports'    => '',
                                     //'sanitize_callback' => '__return_false',
                                     'sanitize_callback' => array( $this, '_field_validation' ),
@@ -607,7 +611,7 @@
             }
 
             public function field_render( $option ) {
-echo '1';
+                echo '1';
                 preg_match_all( "/\[([^\]]*)\]/", $option->id, $matches );
                 $id = $matches[1][0];
                 echo $option->link();

@@ -124,12 +124,12 @@ if( !class_exists( 'ReduxFramework_color_rgba' ) ) {
                 $color = Redux_Helpers::hex2rgba($this->value['color'], $this->value['alpha']);
             }            
 
-            if ($this->value['rgba'] == ''){
+            if ($this->value['rgba'] == '' && $this->value['color'] != '' ){
                 $this->value['rgba'] = Redux_Helpers::hex2rgba($this->value['color'], $this->value['alpha']);
             }
             
             echo '<input
-                        name="' . $opt_name . '[' . $field_id . '][color]"
+                        name="' . $this->field['name'] . $this->field['name_suffix'] . '[color]"
                         id="' . $field_id . '-color"
                         class="redux-color-rgba"
                         type="text"
@@ -154,7 +154,7 @@ if( !class_exists( 'ReduxFramework_color_rgba' ) ) {
                         type="hidden"
                         class="redux-hidden-alpha"
                         data-id="' . $field_id . '-alpha"
-                        name="' . $opt_name . '[' . $field_id . '][alpha]' .  '"
+                        name="' . $this->field['name'] . $this->field['name_suffix'] . '[alpha]' .  '"
                         id="' . $field_id . '-alpha"
                         value="' . $this->value['alpha'] . '"
                       />';
@@ -164,7 +164,7 @@ if( !class_exists( 'ReduxFramework_color_rgba' ) ) {
                         type="hidden"
                         class="redux-hidden-rgba"
                         data-id="' . $field_id . '-rgba"
-                        name="' . $opt_name . '[' . $field_id . '][rgba]' .  '"
+                        name="' . $this->field['name'] . $this->field['name_suffix'] . '[rgba]' .  '"
                         id="' . $field_id . '-rgba"
                         value="' . $this->value['rgba'] . '"
                       />';             
@@ -277,13 +277,17 @@ if( !class_exists( 'ReduxFramework_color_rgba' ) ) {
                 $style .= $mode . ':' . $color_val . ';';
                 
                 if ( ! empty( $this->field['output'] ) && is_array( $this->field['output'] ) ) {
-                    $css = Redux_Functions::parseCSS( $this->field['output'], $style, $color_val );
-                    $this->parent->outputCSS .= $css;
+                    if (!empty($color_val)) {
+                        $css = Redux_Functions::parseCSS( $this->field['output'], $style, $color_val );
+                        $this->parent->outputCSS .= $css;
+                    }
                 }
 
                 if ( ! empty( $this->field['compiler'] ) && is_array( $this->field['compiler'] ) ) {
-                    $css = Redux_Functions::parseCSS( $this->field['compiler'], $style, $color_val );
-                    $this->parent->compilerCSS .= $css ;
+                    if (!empty($color_val)) {
+                        $css = Redux_Functions::parseCSS( $this->field['compiler'], $style, $color_val );
+                        $this->parent->compilerCSS .= $css ;
+                    }
                 }
             }
         }

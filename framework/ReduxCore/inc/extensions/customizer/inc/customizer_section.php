@@ -51,8 +51,8 @@
             // TODO Redux addition
             if ( isset( $args['section'] ) ) {
                 $this->section = $args['section'];
-
-                $this->opt_name = $args['opt_name'];
+                $this->description = isset( $this->section['desc'] ) ? $this->section['desc'] : '';
+                $this->opt_name    = isset( $args['opt_name'] ) ? $args['opt_name'] : '';
             }
         }
 
@@ -119,7 +119,7 @@
                             ),
                         ) );
                     ?>
-                    <span class="screen-reader-text"><?php _e( 'Press return or enter to expand', 'redux-framework' ); ?></span>
+                    <span class="screen-reader-text"><?php esc_attr_e( 'Press return or enter to expand', 'redux-framework' ); ?></span>
                 </h3>
                 <ul class="accordion-section-content redux-main">
                     <?php

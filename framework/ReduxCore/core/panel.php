@@ -65,7 +65,7 @@
                 echo '<noscript><div class="no-js">' . __( 'Warning- This options panel will not work properly without javascript!', 'redux-framework' ) . '</div></noscript>';
 
                 // Security is vital!
-                echo '<input type="hidden" id="ajaxsecurity" name="security" value="' . wp_create_nonce( 'redux_ajax_nonce' ) . '" />';
+                echo '<input type="hidden" id="ajaxsecurity" name="security" value="' . wp_create_nonce( 'redux_ajax_nonce' . $this->parent->args['opt_name'] ) . '" />';
 
                 /**
                  * action 'redux-page-before-form-{opt_name}'
@@ -100,12 +100,12 @@
                 echo '</div>';
 
                 if ( $this->parent->args['dev_mode'] == true ) {
-                    if ( current_user_can( 'administrator' ) ) {
-                        global $wpdb;
-                        echo "<br /><pre>";
-                        print_r( $wpdb->queries );
-                        echo "</pre>";
-                    }
+//                    if ( current_user_can( 'administrator' ) ) {
+//                        global $wpdb;
+//                        echo "<br /><pre>";
+//                        print_r( $wpdb->queries );
+//                        echo "</pre>";
+//                    }
 
                     echo '<br /><div class="redux-timer">' . get_num_queries() . ' queries in ' . timer_stop( 0 ) . ' seconds<br/>Redux is currently set to developer mode.</div>';
                 }

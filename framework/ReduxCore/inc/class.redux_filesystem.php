@@ -125,6 +125,7 @@
 
                 // Setup the filesystem with creds
                 require_once ABSPATH . '/wp-admin/includes/template.php';
+               
                 require_once ABSPATH . '/wp-admin/includes/file.php';
 
                 if ( $this->parent->args['menu_type'] == 'submenu' ) {
@@ -248,6 +249,22 @@
                 }
 
                 if ( ! $res ) {
+                    if ($action == 'dirlist') {
+			if (empty($res) || $res == false || $res == '' ) {
+                            return;
+			}
+                        
+                        if (is_array($res) && empty($res)) {
+                            return;
+                        }
+                        
+                        if (!is_array($res)) {
+                            if (count(glob("$file*")) == 0) {
+                                return;
+                            }
+                        }
+                    }
+                    
                     $this->killswitch              = true;
                     $this->parent->admin_notices[] = array(
                         'type'    => 'error',

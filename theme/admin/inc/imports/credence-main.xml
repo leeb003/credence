@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.3" created="2015-08-21 21:15" -->
+<!-- generator="WordPress/4.3.6" created="2016-12-02 21:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Credence - Wonderful Multi-Purpose</title>
 	<link>http://demo.sh-themes.com/credencebeta</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Fri, 21 Aug 2015 21:15:27 +0000</pubDate>
+	<pubDate>Fri, 02 Dec 2016 21:23:09 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.sh-themes.com/credencebeta</wp:base_site_url>
@@ -72,7 +72,7 @@
 	<wp:term><wp:term_id>34</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>side-menu</wp:term_slug><wp:term_name><![CDATA[Side Menu]]></wp:term_name></wp:term>
 	<wp:term><wp:term_id>35</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>top-layered-minor</wp:term_slug><wp:term_name><![CDATA[Top Layered Minor]]></wp:term_name></wp:term>
 
-	<generator>http://wordpress.org/?v=4.3</generator>
+	<generator>http://wordpress.org/?v=4.3.6</generator>
 
 	<item>
 		<title>traveldreams</title>
@@ -4857,37 +4857,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>livechat</title>
-		<link>http://demo.sh-themes.com/credencebeta/home/livechat/</link>
-		<pubDate>Sun, 09 Aug 2015 23:51:50 +0000</pubDate>
-		<dc:creator><![CDATA[sh-themes]]></dc:creator>
-		<guid isPermaLink="false">http://demo.sh-themes.com/credencebeta/wp-content/uploads/2014/09/livechat.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2587</wp:post_id>
-		<wp:post_date>2015-08-09 23:51:50</wp:post_date>
-		<wp:post_date_gmt>2015-08-09 23:51:50</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>livechat</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>19</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>http://demo.sh-themes.com/credencebeta/wp-content/uploads/2014/09/livechat.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2014/09/livechat.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:180;s:4:"file";s:20:"2014/09/livechat.jpg";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"livechat-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"livechat-300x180.jpg";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:16:"admin-list-thumb";a:4:{s:4:"file";s:18:"livechat-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:20:"livechat-180x180.jpg";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:20:"livechat-300x180.jpg";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:15:"wp_review_small";a:4:{s:4:"file";s:18:"livechat-65x65.jpg";s:5:"width";i:65;s:6:"height";i:65;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>icons</title>
 		<link>http://demo.sh-themes.com/credencebeta/home/icons-3/</link>
 		<pubDate>Mon, 10 Aug 2015 17:45:03 +0000</pubDate>
@@ -7794,6 +7763,10 @@
 		<category domain="essential_grid_category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="makeup"><![CDATA[Makeup]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -7908,6 +7881,10 @@
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="essential_grid_category" nicename="natural"><![CDATA[Natural]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -8024,6 +8001,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="essential_grid_category" nicename="handmade"><![CDATA[Handmade]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -8139,6 +8120,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="essential_grid_category" nicename="aesthetic"><![CDATA[Aesthetic]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -8253,6 +8238,10 @@
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="essential_grid_category" nicename="natural"><![CDATA[Natural]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -8370,12 +8359,135 @@
 		<category domain="essential_grid_category" nicename="medical"><![CDATA[Medical]]></category>
 		<category domain="essential_grid_category" nicename="natural"><![CDATA[Natural]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
 			<wp:meta_value><![CDATA[3265]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_html5_mp4</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_html5_ogv</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_html5_webm</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_youtube</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_vimeo</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_wistia</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_image</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_iframe</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_soundcloud</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_vimeo_ratio</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_youtube_ratio</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_wistia_ratio</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_html5_ratio</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_soundcloud_ratio</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_settings_custom_meta_skin</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_settings_custom_meta_element</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_settings_custom_meta_setting</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_settings_custom_meta_style</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_revslider</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Healthcare</title>
+		<link>http://demo.sh-themes.com/credencebeta/essential_grid/healthcare/</link>
+		<pubDate>Wed, 19 Aug 2015 06:37:34 +0000</pubDate>
+		<dc:creator><![CDATA[sh-themes]]></dc:creator>
+		<guid isPermaLink="false">http://demo.sh-themes.com/credencebeta/?post_type=essential_grid&#038;p=3277</guid>
+		<description></description>
+		<content:encoded><![CDATA[Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.   Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3277</wp:post_id>
+		<wp:post_date>2015-08-19 06:37:34</wp:post_date>
+		<wp:post_date_gmt>2015-08-19 06:37:34</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>healthcare</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>essential_grid</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="essential_grid_category" nicename="medical"><![CDATA[Medical]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[3264]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -9479,118 +9591,62 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Healthcare</title>
-		<link>http://demo.sh-themes.com/credencebeta/essential_grid/healthcare/</link>
-		<pubDate>Wed, 19 Aug 2015 06:37:34 +0000</pubDate>
+		<title>And Many More...</title>
+		<link>http://demo.sh-themes.com/credencebeta/and-45-more/</link>
+		<pubDate>Wed, 08 Jul 2015 20:45:50 +0000</pubDate>
 		<dc:creator><![CDATA[sh-themes]]></dc:creator>
-		<guid isPermaLink="false">http://demo.sh-themes.com/credencebeta/?post_type=essential_grid&#038;p=3277</guid>
+		<guid isPermaLink="false">http://demo.sh-themes.com/credencebeta/and-45-more/</guid>
 		<description></description>
-		<content:encoded><![CDATA[Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.   Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3277</wp:post_id>
-		<wp:post_date>2015-08-19 06:37:34</wp:post_date>
-		<wp:post_date_gmt>2015-08-19 06:37:34</wp:post_date_gmt>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[fa-unlock]]></excerpt:encoded>
+		<wp:post_id>2077</wp:post_id>
+		<wp:post_date>2015-07-08 20:45:50</wp:post_date>
+		<wp:post_date_gmt>2015-07-08 20:45:50</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>healthcare</wp:post_name>
+		<wp:post_name>and-45-more</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>essential_grid</wp:post_type>
+		<wp:menu_order>59</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="essential_grid_category" nicename="medical"><![CDATA[Medical]]></category>
+		<category domain="nav_menu" nicename="navigation"><![CDATA[Navigation]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[3264]]></wp:meta_value>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[2071]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[2077]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_html5_mp4</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_html5_ogv</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_html5_webm</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_youtube</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_vimeo</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_wistia</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_image</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_iframe</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_soundcloud</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_vimeo_ratio</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_youtube_ratio</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_wistia_ratio</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_html5_ratio</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_soundcloud_ratio</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_settings_custom_meta_skin</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_settings_custom_meta_element</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_settings_custom_meta_setting</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_settings_custom_meta_style</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_revslider</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -9615,6 +9671,10 @@
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="essential_grid_category" nicename="aesthetic"><![CDATA[Aesthetic]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -9825,7 +9885,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -9851,6 +9911,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="essential_grid_category" nicename="handmade"><![CDATA[Handmade]]></category>
 		<category domain="essential_grid_category" nicename="natural"><![CDATA[Natural]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -9968,6 +10032,10 @@
 		<category domain="essential_grid_category" nicename="medical"><![CDATA[Medical]]></category>
 		<category domain="essential_grid_category" nicename="natural"><![CDATA[Natural]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -10083,6 +10151,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="essential_grid_category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -10173,65 +10245,6 @@
 		<wp:postmeta>
 			<wp:meta_key>eg_sources_revslider</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>And Many More...</title>
-		<link>http://demo.sh-themes.com/credencebeta/and-45-more/</link>
-		<pubDate>Wed, 08 Jul 2015 20:45:50 +0000</pubDate>
-		<dc:creator><![CDATA[sh-themes]]></dc:creator>
-		<guid isPermaLink="false">http://demo.sh-themes.com/credencebeta/and-45-more/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[fa-unlock]]></excerpt:encoded>
-		<wp:post_id>2077</wp:post_id>
-		<wp:post_date>2015-07-08 20:45:50</wp:post_date>
-		<wp:post_date_gmt>2015-07-08 20:45:50</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>and-45-more</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>59</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="navigation"><![CDATA[Navigation]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[2071]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[2077]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -17256,6 +17269,65 @@
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Credence Resume &amp; CV</title>
+		<link>http://demo.sh-themes.com/credencebeta/resume-cv/</link>
+		<pubDate>Sun, 16 Aug 2015 17:02:25 +0000</pubDate>
+		<dc:creator><![CDATA[sh-themes]]></dc:creator>
+		<guid isPermaLink="false">http://demo.sh-themes.com/credencebeta/?p=2987</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2987</wp:post_id>
+		<wp:post_date>2015-08-16 17:02:25</wp:post_date>
+		<wp:post_date_gmt>2015-08-16 17:02:25</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>resume-cv</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>21</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="navigation"><![CDATA[Navigation]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[http://demo.sh-themes.com/credencecv]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[2987]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[2089]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Shop</title>
 		<link>http://demo.sh-themes.com/credencebeta/shop/</link>
 		<pubDate>Tue, 09 Sep 2014 18:43:19 +0000</pubDate>
@@ -17689,21 +17761,261 @@
 <h4>Much more than a theme, Credence is a <span style="color: #e74c3c;">powerful framework</span> for just about any site you can imagine.  All this with <strong>no coding skills required</strong>!</h4>
 [/vc_column_text][/shvc_colorbg][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css=".vc_custom_1439150432689{margin-bottom: 0px !important;}"][vc_column][shvc_parallax bgcolor="#444444" fontcolor="#dbdbdb"][vc_empty_space height="20px"][vc_column_text]
 <h1><span style="color: #ffffff;">NAVIGATION CHOICES</span></h1>
-[/vc_column_text][vc_row_inner css=".vc_custom_1439144699870{margin-bottom: 0px !important;}"][vc_column_inner width="1/4"][vc_column_text]TOP CENTER LOGO[/vc_column_text][vc_single_image image="2474" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text]TOP LEFT LOGO[/vc_column_text][vc_single_image image="2481" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text]LEFT LOGO LAYERED[/vc_column_text][vc_single_image image="2483" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text]RIGHT LOGO LAYERED[/vc_column_text][vc_single_image image="2484" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439144708464{margin-bottom: 0px !important;}"][vc_column_inner width="1/4"][vc_column_text]CENTER LOGO LAYERED[/vc_column_text][vc_single_image image="2486" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text]FULL PAGE[/vc_column_text][vc_single_image image="2488" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text]LEFT NAVIGATION[/vc_column_text][vc_single_image image="2468" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text]RIGHT NAVIGATION[/vc_column_text][vc_single_image image="2465" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][/vc_row_inner][vc_column_text]
+[/vc_column_text][vc_row_inner css=".vc_custom_1439144699870{margin-bottom: 0px !important;}"][vc_column_inner width="1/4"][vc_column_text]
+
+TOP CENTER LOGO
+
+[/vc_column_text][vc_single_image image="2474" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text]
+
+TOP LEFT LOGO
+
+[/vc_column_text][vc_single_image image="2481" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text]
+
+LEFT LOGO LAYERED
+
+[/vc_column_text][vc_single_image image="2483" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text]
+
+RIGHT LOGO LAYERED
+
+[/vc_column_text][vc_single_image image="2484" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439144708464{margin-bottom: 0px !important;}"][vc_column_inner width="1/4"][vc_column_text]
+
+CENTER LOGO LAYERED
+
+[/vc_column_text][vc_single_image image="2486" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text]
+
+FULL PAGE
+
+[/vc_column_text][vc_single_image image="2488" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text]
+
+LEFT NAVIGATION
+
+[/vc_column_text][vc_single_image image="2468" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][vc_column_inner width="1/4"][vc_column_text]
+
+RIGHT NAVIGATION
+
+[/vc_column_text][vc_single_image image="2465" img_size="full" alignment="center"][vc_empty_space height="20px"][/vc_column_inner][/vc_row_inner][vc_column_text]
 <p style="text-align: center;">ALONG WITH THESE: you can also have your site as boxed, boxed offset and wide.  You can set top navigation layouts to be fixed or static as well.  Use menu shadow, animation and transparency.  Oh, did we mention you can override many layout options per page!</p>
-[/vc_column_text][/shvc_parallax][/vc_column][/vc_row][vc_row css=".vc_custom_1439393626340{margin-bottom: 0px !important;}"][vc_column][shvc_parallax backgroundchoice="fixed" overlaycolor="rgba(255,255,255,0.01)" fontcolor="#444444" background="2745"][sh_header header="Take a look at our demos" colorchange="enable" color="#444444" barheight="3px" barwidth="80px" barcolor="#e74c3c"][/sh_header][vc_row_inner css=".vc_custom_1439392597199{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Bistro" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credencebistro" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2691" buttontext="Take A Look" fliptext="A demo using Credence to show the right sidebar menu along with scrolling navigation."]Restaurant and Bistro Demo.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Yoga" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#444444" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credenceyoga" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2693" fliptext="This is a demo showing Credence used as a fitness website, using transparent menus." buttontext="Take A Look"]Yoga and Fitness Demo.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence CV" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credencecv" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2700" fliptext="This Demo shows the usage of the left sidebar navigation and in a resume format." buttontext="Take A Look"]Credence Resume and CV Demo.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439392606082{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Blog" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#444444" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credenceblog" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2711" fliptext="Use Credence to display your awesome blog site." buttontext="Take A Look"]Modern and Clean Blog Site.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Single" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credencesingle" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2730" fliptext="This Demo shows a single page scroll with inline video." buttontext="Take A Look"]Credence Single Scroll Demo.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Services" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#444444" flipbgcolor="#bdbdbd" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credenceservice" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2755" buttontext="Take A Look" fliptext="This demo shows using Credence for building and construction or any other service."]Construction and Services Demo.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439392597199{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Coming Soon" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credence/coming-soon/" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2723" buttontext="Take A Look" fliptext="Need a page with no menus, no problem. With Credence you can use full page templates that give you the full width and height of the page to use."]Coming Soon Landing Page.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Under Construction Page" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#444444" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credence/under-construction-2/" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2727" fliptext="This page uses the single page with no menu to give you full use of the page for content." buttontext="Take A Look"]Single Page Under Construction.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Shop" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credence/shop" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2753" fliptext="Create your own shop and start selling your products with Credence and WooCommerce." buttontext="Take A Look"]Credence WooCommerce Shop.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439392597199{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Data Center" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="#" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2740" buttontext="Coming Soon" fliptext="Technology and Hosting Demo. Useful for businesses to showcase their own technology."]Technology &amp; Hosting Demo.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Destinations" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#444444" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="#" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2741" fliptext="A demo for travel companies and agencies to market their services and features." buttontext="Coming Soon"]Travel and Travel Agency Demo.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Law" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="#" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2742" fliptext="A demo for law, lawyers and justice services." buttontext="Coming Soon"]Credence Law and Justice.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][/shvc_parallax][/vc_column][/vc_row][vc_row css=".vc_custom_1439154212909{margin-bottom: 0px !important;}"][vc_column][shvc_parallax backgroundchoice="parallax" overlaycolor="rgba(0,0,0,0.6)" fontcolor="#ffffff" background="1470"][vc_empty_space height="20px"][sh_header header="CREDENCE STATISTICS" colorchange="enable" color="#ffffff" barheight="3px" barwidth="80px" barcolor="#e74c3c"][/sh_header][vc_empty_space height="20px"][vc_row_inner][vc_column_inner width="1/4"][shvc_animate anim="fadeInUp" delay="250"][sh_milestone start="1" stop="8" iconset="linear" iconlinear="icon-papers" color="#ffffff" size="large" speed="2500"]Custom Templates[/sh_milestone][/shvc_animate][/vc_column_inner][vc_column_inner width="1/4"][shvc_animate anim="fadeInUp" delay="250"][sh_milestone stop="169" iconset="linear" iconlinear="icon-cart-plus" color="#e74c3c" size="large" speed="2500" textbefore="$"]Savings In Tools[/sh_milestone][/shvc_animate][/vc_column_inner][vc_column_inner width="1/4"][shvc_animate anim="fadeInUp" delay="250"][sh_milestone stop="2319" iconset="linear" iconlinear="icon-cloud-check" color="#ffffff" size="large" speed="2500"]Icons Available[/sh_milestone][/shvc_animate][/vc_column_inner][vc_column_inner width="1/4"][shvc_animate anim="fadeInUp" delay="250"][sh_milestone stop="43" iconset="linear" iconlinear="icon-border-inner" color="#ffffff" size="large" speed="2500"]Custom VC Elements[/sh_milestone][/shvc_animate][/vc_column_inner][/vc_row_inner][vc_empty_space][/shvc_parallax][/vc_column][/vc_row][vc_row css=".vc_custom_1439154176247{margin-bottom: 0px !important;}"][vc_column][shvc_colorbg backgroundcolor="#ffffff" fontcolor="#444444" arrower="bottom"][sh_header size="h4" type="boxed" header="CREDENCE 2.0 INCLUDES A TON OF POWERFUL TOOLS AND FEATURES...TAKE A LOOK." colorchange="enable" color="#444444"]A Summary below the header if desired.[/sh_header][/shvc_colorbg][/vc_column][/vc_row][vc_row css=".vc_custom_1439153971913{margin-bottom: 0px !important;}"][vc_column][shvc_parallax backgroundchoice="fixed" fontcolor="#444444" background="2688"][vc_empty_space height="60px"][vc_row_inner css=".vc_custom_1439163009612{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://codecanyon.net/item/essential-grid-wordpress-plugin/7563340?ref=scriptHat" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2566"]Popular and extremely powerful grid building plugin <strong>Essential Grid</strong> - Save <span style="text-decoration: underline; color: #e74c3c;">$25.00</span>[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://codecanyon.net/item/layerslider-responsive-wordpress-slider-plugin-/1362246?ref=scriptHat" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2567"]The ever popular and powerful slider <strong>LayerSlider</strong> included for you - Save<span style="text-decoration: underline; color: #e74c3c;"> $17.00</span>[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380?ref=scriptHat" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2570"]The absolute most popular and powerful slider, <strong>Slider Revolution</strong> - Save<span style="text-decoration: underline; color: #e74c3c;"> $18.00</span>[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439231762016{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431?ref=scriptHat" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2572"]Massively Popular Page Builder <strong>Visual Composer</strong> included for free - Save<span style="text-decoration: underline; color: #e74c3c;"> $33.00</span>[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://codecanyon.net/item/wordpress-live-chat-plugin/3952877?ref=scriptHat" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2587"]The perfect solution for you to chat with your visitors online, <strong>Live Chat</strong> – Save<span style="text-decoration: underline; color: #e74c3c;"> $17.00</span>[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="https://linearicons.com/" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2576"]Unique and Premium icon set bringing you 1001 icons <strong>Linearicons</strong> - Save <span style="text-decoration: underline; color: #e74c3c;">$59.00</span>[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439231771129{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://ionicons.com/" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2604"]Ionicons and FontAwesome Icon sets add another <strong>1300+ icons </strong>to the 1001 included with Linearicons<strong><span style="text-decoration: underline; color: #e74c3c;">
-</span></strong>[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://www.woothemes.com/woocommerce/" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2607"]Ready for Ecommerce?  Credence is fully compatible with <strong>WooCommerce </strong>and even includes styling![/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2617"]Credence includes <strong>Automatic Updates</strong> and adds awesome new features regularly.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439231771129{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2625"]<strong>Complete color control</strong> of theme, sections, pages and even multiple items for custom included elements.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2623"]Set up <strong>single page navigation</strong> or combine with multiple pages to create awesome designs![/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2634"]Credence is fully <strong>Translation Ready</strong> and <strong>WPML Certified</strong>.  Ready for your own native language.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439231771129{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2646"]With so many included <strong>styling features</strong>, no two sites using Credence will ever look the same.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2648"]Use our <strong>single click import</strong> for any of the live demos we have set up, it's that easy![/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2650"]43 <strong>Custom Page Builder elements</strong> you won't find in any other theme, exclusive to Credence.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439231771129{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2654"]Large menu support is available with integrated <strong>Mega Menu</strong> functionality and flyouts.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2656"]Credence is designed with <strong>optimal &amp; clean code</strong> practices, using the latest features of WordPress.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2659"]<strong>Responsive</strong>?...Absolutely.  Credence has been designed to look great on all of your devices small and large.[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_empty_space height="40px"][/shvc_parallax][/vc_column][/vc_row][vc_row css=".vc_custom_1439364326317{margin-bottom: 0px !important;}"][vc_column][vc_row_inner css=".vc_custom_1439364142026{margin-bottom: 0px !important;}"][vc_column_inner][shvc_colorbg backgroundcolor="#444444" arrower="top"][vc_empty_space height="10px"][vc_column_text]
+[/vc_column_text][/shvc_parallax][/vc_column][/vc_row][vc_row css=".vc_custom_1439393626340{margin-bottom: 0px !important;}"][vc_column][shvc_parallax backgroundchoice="fixed" overlaycolor="rgba(255,255,255,0.01)" fontcolor="#444444" background="2745"][sh_header header="Take a look at our demos" colorchange="enable" color="#444444" barheight="3px" barwidth="80px" barcolor="#e74c3c"]
+[/sh_header][vc_row_inner css=".vc_custom_1439392597199{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Bistro" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credencebistro" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2691" buttontext="Take A Look" fliptext="A demo using Credence to show the right sidebar menu along with scrolling navigation."]
+
+Restaurant and Bistro Demo.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Yoga" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#444444" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credenceyoga" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2693" fliptext="This is a demo showing Credence used as a fitness website, using transparent menus." buttontext="Take A Look"]
+
+Yoga and Fitness Demo.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence CV" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credencecv" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2700" fliptext="This Demo shows the usage of the left sidebar navigation and in a resume format." buttontext="Take A Look"]
+
+Credence Resume and CV Demo.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439392606082{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Blog" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#444444" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credenceblog" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2711" fliptext="Use Credence to display your awesome blog site." buttontext="Take A Look"]
+
+Modern and Clean Blog Site.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Single" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credencesingle" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2730" fliptext="This Demo shows a single page scroll with inline video." buttontext="Take A Look"]
+
+Credence Single Scroll Demo.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Services" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#444444" flipbgcolor="#bdbdbd" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credenceservice" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2755" buttontext="Take A Look" fliptext="This demo shows using Credence for building and construction or any other service."]
+
+Construction and Services Demo.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439392597199{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Coming Soon" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credence/coming-soon/" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2723" buttontext="Take A Look" fliptext="Need a page with no menus, no problem. With Credence you can use full page templates that give you the full width and height of the page to use."]
+
+Coming Soon Landing Page.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Under Construction Page" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#444444" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credence/under-construction-2/" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2727" fliptext="This page uses the single page with no menu to give you full use of the page for content." buttontext="Take A Look"]
+
+Single Page Under Construction.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Shop" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="http://demo.sh-themes.com/credence/shop" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2753" fliptext="Create your own shop and start selling your products with Credence and WooCommerce." buttontext="Take A Look"]
+
+Credence WooCommerce Shop.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439392597199{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Data Center" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="#" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2740" buttontext="Coming Soon" fliptext="Technology and Hosting Demo. Useful for businesses to showcase their own technology."]
+
+Technology &amp; Hosting Demo.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Destinations" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#444444" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="#" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2741" fliptext="A demo for travel companies and agencies to market their services and features." buttontext="Coming Soon"]
+
+Travel and Travel Agency Demo.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout callouttype="flip" title="Credence Law" bordercolor="#444444" backgroundcolor="#bdbdbd" fontcolor="#555555" flipcolor="#555555" flipbgcolor="#bdbdbd" flipbordercolor="#444444" buttonenable="enable" buttonlink="#" buttonfontcolor="#ffffff" buttonbgcolor="#444444" btnbordercolor="#000000" iconenable="image" imageheight="" imagewidth="" image="2742" fliptext="A demo for law, lawyers and justice services." buttontext="Coming Soon"]
+
+Credence Law and Justice.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][/shvc_parallax][/vc_column][/vc_row][vc_row css=".vc_custom_1439154212909{margin-bottom: 0px !important;}"][vc_column][shvc_parallax backgroundchoice="parallax" overlaycolor="rgba(0,0,0,0.6)" fontcolor="#ffffff" background="1470"][vc_empty_space height="20px"][sh_header header="CREDENCE STATISTICS" colorchange="enable" color="#ffffff" barheight="3px" barwidth="80px" barcolor="#e74c3c"]
+[/sh_header][vc_empty_space height="20px"][vc_row_inner][vc_column_inner width="1/4"][shvc_animate anim="fadeInUp" delay="250"][sh_milestone start="1" stop="8" iconset="linear" iconlinear="icon-papers" color="#ffffff" size="large" speed="2500"]
+
+Custom Templates
+
+[/sh_milestone][/shvc_animate][/vc_column_inner][vc_column_inner width="1/4"][shvc_animate anim="fadeInUp" delay="250"][sh_milestone stop="169" iconset="linear" iconlinear="icon-cart-plus" color="#e74c3c" size="large" speed="2500" textbefore="$"]
+
+Savings In Tools
+
+[/sh_milestone][/shvc_animate][/vc_column_inner][vc_column_inner width="1/4"][shvc_animate anim="fadeInUp" delay="250"][sh_milestone stop="2319" iconset="linear" iconlinear="icon-cloud-check" color="#ffffff" size="large" speed="2500"]
+
+Icons Available
+
+[/sh_milestone][/shvc_animate][/vc_column_inner][vc_column_inner width="1/4"][shvc_animate anim="fadeInUp" delay="250"][sh_milestone stop="43" iconset="linear" iconlinear="icon-border-inner" color="#ffffff" size="large" speed="2500"]
+
+Custom VC Elements
+
+[/sh_milestone][/shvc_animate][/vc_column_inner][/vc_row_inner][vc_empty_space][/shvc_parallax][/vc_column][/vc_row][vc_row css=".vc_custom_1439154176247{margin-bottom: 0px !important;}"][vc_column][shvc_colorbg backgroundcolor="#ffffff" fontcolor="#444444" arrower="bottom"][sh_header size="h4" type="boxed" header="CREDENCE 2.0 INCLUDES A TON OF POWERFUL TOOLS AND FEATURES...TAKE A LOOK." colorchange="enable" color="#444444"]
+
+A Summary below the header if desired.
+
+[/sh_header][/shvc_colorbg][/vc_column][/vc_row][vc_row css=".vc_custom_1439153971913{margin-bottom: 0px !important;}"][vc_column][shvc_parallax backgroundchoice="fixed" fontcolor="#444444" background="2688"][vc_empty_space height="60px"][vc_row_inner css=".vc_custom_1439163009612{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://codecanyon.net/item/essential-grid-wordpress-plugin/7563340?ref=scriptHat" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2566"]
+
+Popular and extremely powerful grid building plugin <strong>Essential Grid</strong> - Save <span style="text-decoration: underline; color: #e74c3c;">$25.00</span>
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://codecanyon.net/item/layerslider-responsive-wordpress-slider-plugin-/1362246?ref=scriptHat" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2567"]
+
+The ever popular and powerful slider <strong>LayerSlider</strong> included for you - Save<span style="text-decoration: underline; color: #e74c3c;"> $17.00</span>
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380?ref=scriptHat" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2570"]
+
+The absolute most popular and powerful slider, <strong>Slider Revolution</strong> - Save<span style="text-decoration: underline; color: #e74c3c;"> $18.00</span>
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439231762016{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431?ref=scriptHat" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2572"]
+
+Massively Popular Page Builder <strong>Visual Composer</strong> included for free - Save<span style="text-decoration: underline; color: #e74c3c;"> $33.00</span>
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2659"]
+
+<strong>Responsive</strong>?...Absolutely.  Credence has been designed to look great on all of your devices small and large.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="https://linearicons.com/" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2576"]
+
+Unique and Premium icon set bringing you 1001 icons <strong>Linearicons</strong> - Save <span style="text-decoration: underline; color: #e74c3c;">$59.00</span>
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439231771129{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://ionicons.com/" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2604"]Ionicons and FontAwesome Icon sets add another <strong>1300+ icons </strong>to the 1001 included with Linearicons<strong><span style="text-decoration: underline; color: #e74c3c;">
+</span></strong>[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="http://www.woothemes.com/woocommerce/" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2607"]
+
+Ready for Ecommerce?  Credence is fully compatible with <strong>WooCommerce </strong>and even includes styling!
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2617"]
+
+Credence includes <strong>Automatic Updates</strong> and adds awesome new features regularly.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439231771129{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2625"]
+
+<strong>Complete color control</strong> of theme, sections, pages and even multiple items for custom included elements.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2623"]
+
+Set up <strong>single page navigation</strong> or combine with multiple pages to create awesome designs!
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2634"]
+
+Credence is fully <strong>Translation Ready</strong> and <strong>WPML Certified</strong>.  Ready for your own native language.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439231771129{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2646"]
+
+With so many included <strong>styling features</strong>, no two sites using Credence will ever look the same.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2648"]
+
+Use our <strong>single click import</strong> for any of the live demos we have set up, it's that easy!
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2650"]
+
+43 <strong>Custom Page Builder elements</strong> you won't find in any other theme, exclusive to Credence.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1439231771129{margin-bottom: 0px !important;}"][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2654"]
+
+Large menu support is available with integrated <strong>Mega Menu</strong> functionality and flyouts.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="https://www.mojomarketplace.com/item/credence-a-wonderful-multi-purpose-wordpress-theme?r=scripthat-9VHodxN2Fh" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Get Credence" image="2646"]
+
+So, what are you waiting for? Be sure to get your own copy of <strong>Credence</strong> today!
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][vc_column_inner width="1/3"][sh_callout title="" backgroundcolor="#ffffff" fontcolor="#444444" buttonenable="enable" buttonlink="#" buttontarget="_self" buttonfontcolor="#444444" buttonbgcolor="#ffffff" btnborderwidth="1px" btnbordercolor="#444444" iconenable="image" imageheight="" imagewidth="" buttontext="Learn More" image="2656"]
+
+Credence is designed with <strong>optimal &amp; clean code</strong> practices, using the latest features of WordPress.
+
+[/sh_callout][vc_empty_space height="30px"][/vc_column_inner][/vc_row_inner][vc_empty_space height="40px"][/shvc_parallax][/vc_column][/vc_row][vc_row css=".vc_custom_1439364326317{margin-bottom: 0px !important;}"][vc_column][vc_row_inner css=".vc_custom_1439364142026{margin-bottom: 0px !important;}"][vc_column_inner][shvc_colorbg backgroundcolor="#444444" arrower="top"][vc_empty_space height="10px"][vc_column_text]
 <h4>Set Up Your Pages Quickly With <strong>Drag &amp; Drop Elements</strong>.  Create Layouts, Create Sliders, Create Custom Grids, Use Parallax, Fixed and Video Background Sections.  All <strong>Without Touching Code</strong>.</h4>
-[/vc_column_text][/shvc_colorbg][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][shvc_parallax backgroundchoice="fixed" fontcolor="#ffffff" background="2774"][sh_header header="Powerful Widgets Included" colorchange="enable" color="#ffffff" barheight="3px" barwidth="80px" barcolor="#e74c3c"][/sh_header][vc_row_inner][vc_column_inner width="2/3"][vc_single_image image="2773" img_size="full"][/vc_column_inner][vc_column_inner width="1/3"][shvc_checklist iconset="linear" iconlinear="icon-check" background="enable"][shvc_checklist_item]Display your ads with the <b>Ad Widget</b>[/shvc_checklist_item][shvc_checklist_item]Show images with the <b>Flickr Widget </b>[/shvc_checklist_item][shvc_checklist_item]Quick access with the <b>Login Widget </b>[/shvc_checklist_item][shvc_checklist_item] <b>Like Rank widget </b> shows trending posts[/shvc_checklist_item][shvc_checklist_item]<b>Instagram Widget </b>[/shvc_checklist_item][shvc_checklist_item]<b>Portfolio Posts Widget</b>[/shvc_checklist_item][shvc_checklist_item]<b>Twitter Feed Widget</b>[/shvc_checklist_item][shvc_checklist_item] <b>Tabbed Widget</b> - styled post list[/shvc_checklist_item][shvc_checklist_item] <b>Revolution Slider Widget</b>[/shvc_checklist_item][shvc_checklist_item]<b>LayerSlider Widget</b>[/shvc_checklist_item][shvc_checklist_item]<b>Essential Grid Widget</b>[/shvc_checklist_item][/shvc_checklist][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner][vc_column_text]
+[/vc_column_text][/shvc_colorbg][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][shvc_parallax backgroundchoice="fixed" fontcolor="#ffffff" background="2774"][sh_header header="Powerful Widgets Included" colorchange="enable" color="#ffffff" barheight="3px" barwidth="80px" barcolor="#e74c3c"]
+[/sh_header][vc_row_inner][vc_column_inner width="2/3"][vc_single_image image="2773" img_size="full"][/vc_column_inner][vc_column_inner width="1/3"][shvc_checklist iconset="linear" iconlinear="icon-check" background="enable"][shvc_checklist_item]
+
+Display your ads with the <b>Ad Widget</b>
+
+[/shvc_checklist_item][shvc_checklist_item]
+
+Show images with the <b>Flickr Widget </b>
+
+[/shvc_checklist_item][shvc_checklist_item]
+
+Quick access with the <b>Login Widget </b>
+
+[/shvc_checklist_item][shvc_checklist_item]
+
+<b>Like Rank widget </b> shows trending posts
+
+[/shvc_checklist_item][shvc_checklist_item]
+
+<b>Instagram Widget </b>
+
+[/shvc_checklist_item][shvc_checklist_item]
+
+<b>Portfolio Posts Widget</b>
+
+[/shvc_checklist_item][shvc_checklist_item]
+
+<b>Twitter Feed Widget</b>
+
+[/shvc_checklist_item][shvc_checklist_item]
+
+<b>Tabbed Widget</b> - styled post list
+
+[/shvc_checklist_item][shvc_checklist_item]
+
+<b>Revolution Slider Widget</b>
+
+[/shvc_checklist_item][shvc_checklist_item]
+
+<b>LayerSlider Widget</b>
+
+[/shvc_checklist_item][shvc_checklist_item]
+
+<b>Essential Grid Widget</b>
+
+[/shvc_checklist_item][/shvc_checklist][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner][vc_column_text]
 <h4>[sh_fa link="disable" size="2x" fontcolor="rgb(255, 255, 255)" iconset="linear" iconlinear=" icon-thumbs-up2"][/sh_fa]All shortcodes can be used in widget areas as well.  Something else you would like to see?  We have a <strong>dedicated feature request area </strong>in our support forum...let us know!</h4>
 [/vc_column_text][vc_empty_space height="10px"][/vc_column_inner][/vc_row_inner][/shvc_parallax][/vc_column][/vc_row][vc_row][vc_column][vc_single_image image="2759" img_size="full" alignment="center"][/vc_column][/vc_row][vc_row][vc_column][shvc_colorbg backgroundcolor="#444444" arrower="top"][vc_empty_space height="20px"][vc_single_image image="2761" img_size="full" alignment="center" css=".vc_custom_1439483232124{margin-bottom: 0px !important;}"][vc_row_inner][vc_column_inner][vc_column_text]
 <h4>Go On and Create Your Shop, Credence Has Full <strong>WooCommerce Integration</strong>.</h4>
-[/vc_column_text][/vc_column_inner][/vc_row_inner][/shvc_colorbg][/vc_column][/vc_row][vc_row css=".vc_custom_1439324357915{margin-bottom: -20px !important;}"][vc_column css=".vc_custom_1439324320317{margin-bottom: -10px !important;}"][shvc_imagebg overlaycolor="rgba(0,0,0,0.01)" fontcolor="#444444" background="2682"][sh_header header="SO WHAT DO PEOPLE THINK?" colorchange="enable" color="#444444" barheight="3px" barwidth="80px" barcolor="#e74c3c"][/sh_header][vc_row_inner css=".vc_custom_1439324098112{margin-bottom: 0px !important;}"][vc_column_inner el_class="text-left"][shvc_testimonialc adapt="false"][shvc_testimonial name="Don Niam" title="Credence Owner"]Going to add to a previous review and officially say <strong>this is my number one theme</strong>. I have several themes from Mojo and based on quality coding and EXCELLENT TOP NOTCH SUPPORT, this theme overall tops them all. The design and features are great!
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/shvc_colorbg][/vc_column][/vc_row][vc_row css=".vc_custom_1439324357915{margin-bottom: -20px !important;}"][vc_column css=".vc_custom_1439324320317{margin-bottom: -10px !important;}"][shvc_imagebg overlaycolor="rgba(0,0,0,0.01)" fontcolor="#444444" background="2682"][sh_header header="SO WHAT DO PEOPLE THINK?" colorchange="enable" color="#444444" barheight="3px" barwidth="80px" barcolor="#e74c3c"]
+[/sh_header][vc_row_inner css=".vc_custom_1439324098112{margin-bottom: 0px !important;}"][vc_column_inner el_class="text-left"][shvc_testimonialc adapt="false"][shvc_testimonial name="Don Niam" title="Credence Owner"]Going to add to a previous review and officially say <strong>this is my number one theme</strong>. I have several themes from Mojo and based on quality coding and EXCELLENT TOP NOTCH SUPPORT, this theme overall tops them all. The design and features are great!
 Thanks for staying ontop of updates and support![/shvc_testimonial][shvc_testimonial name="Debi Stangeland" title="Credence Owner"]I consider CREDENCE the <strong>Ferrari of WP themes</strong>. It's unbelievable. It is so responsive and the options are virtually unlimited.
 The more I play with this theme, the more I love it. My site is amazingly professional looking, with quality elements that are powerful and effective and yet, it is simple to set-up, use, and change.
-I couldn't ask for anything more in a theme. This is one I'll use for a long time because of it's flexibility.[/shvc_testimonial][shvc_testimonial name="Benjamin" title="Credence Owner"]Wow - great theme, incredibly versatile, easy to use, looks great, easy to use and the support team turn-around was amazingly quick. <strong>Highly recommended!</strong>[/shvc_testimonial][shvc_testimonial title="Credence Owner"]First time using WordPress.... After previewing MANY Themes, I chose this theme based on look and features. <strong>I am Extremely pleased with my decision</strong>.... Love this Theme and my new site!! Excellent support and fast. Thanks!![/shvc_testimonial][shvc_testimonial name="cbeck3" title="Credence Owner"]This new theme is the best I have viewed. <strong>It is loaded with many tools</strong>. I look forward to using this product now and into the future.[/shvc_testimonial][shvc_testimonial name="Yotels" title="Credence Owner"]Finally, an <strong>impressive theme with a great design</strong>! You could tell a lot of work has gone into this. Thank you![/shvc_testimonial][shvc_testimonial title="Credence Owner"]Amazing people and amazing theme!! <strong>RECOMENDED 100%</strong>!! if you buy it you will have the best support![/shvc_testimonial][/shvc_testimonialc][/vc_column_inner][/vc_row_inner][/shvc_imagebg][/vc_column][/vc_row][vc_row css=".vc_custom_1439393776771{margin-bottom: 0px !important;}"][vc_column][shvc_colorbg backgroundcolor="#ededed" fontcolor="#444444"][vc_column_text]
+I couldn't ask for anything more in a theme. This is one I'll use for a long time because of it's flexibility.[/shvc_testimonial][shvc_testimonial name="Benjamin" title="Credence Owner"]
+
+Wow - great theme, incredibly versatile, easy to use, looks great, easy to use and the support team turn-around was amazingly quick. <strong>Highly recommended!</strong>
+
+[/shvc_testimonial][shvc_testimonial title="Credence Owner"]
+
+First time using WordPress.... After previewing MANY Themes, I chose this theme based on look and features. <strong>I am Extremely pleased with my decision</strong>.... Love this Theme and my new site!! Excellent support and fast. Thanks!!
+
+[/shvc_testimonial][shvc_testimonial name="cbeck3" title="Credence Owner"]
+
+This new theme is the best I have viewed. <strong>It is loaded with many tools</strong>. I look forward to using this product now and into the future.
+
+[/shvc_testimonial][shvc_testimonial name="Yotels" title="Credence Owner"]
+
+Finally, an <strong>impressive theme with a great design</strong>! You could tell a lot of work has gone into this. Thank you!
+
+[/shvc_testimonial][shvc_testimonial title="Credence Owner"]
+
+Amazing people and amazing theme!! <strong>RECOMENDED 100%</strong>!! if you buy it you will have the best support!
+
+[/shvc_testimonial][/shvc_testimonialc][/vc_column_inner][/vc_row_inner][/shvc_imagebg][/vc_column][/vc_row][vc_row css=".vc_custom_1439393776771{margin-bottom: 0px !important;}"][vc_column][shvc_colorbg backgroundcolor="#ededed" fontcolor="#444444"][vc_column_text]
 <h5>All Demos, Plugins and Listed Features Included For Free.  Free Documentation, Narrated Video Tutorials, Support and Updates - Get<strong> The Most Powerful WordPress Theme</strong> Today!</h5>
-[/vc_column_text][sh_btn link="https://www.mojomarketplace.com/item/credence-a-wonderful-multi-purpose-wordpress-theme?r=scripthat-9VHodxN2Fh" size="extralarge" color="#ffffff" bordercolor="#444444" bordersize="2" fontcolor="#444444"]Purchase Now![/sh_btn][/shvc_colorbg][/vc_column][/vc_row]]]></content:encoded>
+[/vc_column_text][sh_btn link="https://www.mojomarketplace.com/item/credence-a-wonderful-multi-purpose-wordpress-theme?r=scripthat-9VHodxN2Fh" size="extralarge" color="#ffffff" bordercolor="#444444" bordersize="2" fontcolor="#444444"]
+
+Purchase Now!
+
+[/sh_btn][/shvc_colorbg][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date>2014-09-29 19:13:24</wp:post_date>
@@ -18843,62 +19155,73 @@ I couldn't ask for anything more in a theme. This is one I'll use for a long tim
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Credence Resume &amp; CV</title>
-		<link>http://demo.sh-themes.com/credencebeta/resume-cv/</link>
-		<pubDate>Sun, 16 Aug 2015 17:02:25 +0000</pubDate>
+		<title>Blog Timeline No Sidebar</title>
+		<link>http://demo.sh-themes.com/credencebeta/blog-timeline-no-sidebar/</link>
+		<pubDate>Mon, 29 Sep 2014 19:24:43 +0000</pubDate>
 		<dc:creator><![CDATA[sh-themes]]></dc:creator>
-		<guid isPermaLink="false">http://demo.sh-themes.com/credencebeta/?p=2987</guid>
+		<guid isPermaLink="false">http://demo.sh-themes.com/credence/?page_id=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2987</wp:post_id>
-		<wp:post_date>2015-08-16 17:02:25</wp:post_date>
-		<wp:post_date_gmt>2015-08-16 17:02:25</wp:post_date_gmt>
+		<wp:post_id>46</wp:post_id>
+		<wp:post_date>2014-09-29 19:24:43</wp:post_date>
+		<wp:post_date_gmt>2014-09-29 19:24:43</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>resume-cv</wp:post_name>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>blog-timeline-no-sidebar</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="navigation"><![CDATA[Navigation]]></category>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[single/single-blogtime.php]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://demo.sh-themes.com/credencecv]]></wp:meta_value>
+			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key>_wpb_vc_js_interface_version</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[2987]]></wp:meta_value>
+			<wp:meta_key>blog_time_sidebar</wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[2089]]></wp:meta_value>
+			<wp:meta_key>vc_teaser</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[single/single-blogtime.php]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+			<wp:meta_key>_wpb_vc_js_interface_version</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>blog_time_sidebar</wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>vc_teaser</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -19017,76 +19340,6 @@ I couldn't ask for anything more in a theme. This is one I'll use for a long tim
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Blog Timeline No Sidebar</title>
-		<link>http://demo.sh-themes.com/credencebeta/blog-timeline-no-sidebar/</link>
-		<pubDate>Mon, 29 Sep 2014 19:24:43 +0000</pubDate>
-		<dc:creator><![CDATA[sh-themes]]></dc:creator>
-		<guid isPermaLink="false">http://demo.sh-themes.com/credence/?page_id=46</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date>2014-09-29 19:24:43</wp:post_date>
-		<wp:post_date_gmt>2014-09-29 19:24:43</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>blog-timeline-no-sidebar</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[single/single-blogtime.php]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_interface_version</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>blog_time_sidebar</wp:meta_key>
-			<wp:meta_value><![CDATA[none]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>vc_teaser</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[single/single-blogtime.php]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_interface_version</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>blog_time_sidebar</wp:meta_key>
-			<wp:meta_value><![CDATA[none]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>vc_teaser</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -29322,6 +29575,133 @@ Set your own custom tooltip text
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>John Jones</title>
+		<link>http://demo.sh-themes.com/credencebeta/people/john-jones/</link>
+		<pubDate>Mon, 29 Sep 2014 21:46:42 +0000</pubDate>
+		<dc:creator><![CDATA[sh-themes]]></dc:creator>
+		<guid isPermaLink="false">http://demo.sh-themes.com/credence/?post_type=people&#038;p=100</guid>
+		<description></description>
+		<content:encoded><![CDATA[[vc_row][vc_column width="1/1"][sh_headerdouble size="h4"]A True Leader On Our Team[/sh_headerdouble][vc_empty_space height="32px"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][sh_imageframe style="bordered" bordersize="1px" bordercolor="rgba(0,0,0,0.25)" padding="5px" action="none" hover="disable" source="101"][sh_social icon="fa fa-facebook" target="_new" size="medium" placement="bottom" framed="true" fontcolor="rgba(0,0,0,0.3)" radius="2px" bgcolor="rgba(0,0,0,0.15)" link="#" title="Facebook"][sh_social icon="fa fa-linkedin" target="_new" size="medium" placement="bottom" framed="true" fontcolor="rgba(0,0,0,0.3)" radius="2px" bgcolor="rgba(0,0,0,0.15)" link="#" title="LinkedIn"][sh_social icon="fa fa-twitter" target="_new" size="medium" placement="bottom" framed="true" fontcolor="rgba(0,0,0,0.3)" radius="2px" bgcolor="rgba(0,0,0,0.15)" link="#" title="Twitter"][sh_social icon="fa fa-codepen" target="_new" size="medium" placement="bottom" framed="true" fontcolor="rgba(0,0,0,0.3)" radius="2px" bgcolor="rgba(0,0,0,0.15)" link="#" title="Codepen"][sh_social icon="fa fa-google-plus" target="_new" size="medium" placement="bottom" framed="true" fontcolor="rgba(0,0,0,0.3)" radius="2px" bgcolor="rgba(0,0,0,0.15)" link="#" title="Google+"][/vc_column][vc_column width="1/2"][vc_tour interval="0" el_class="rightside"][vc_tab title="Achievements" tab_id="1409436148-1-80"][vc_column_text]Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+
+Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][vc_tab title="Education" tab_id="1409436148-2-74"][vc_column_text]Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+
+Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][vc_tab title="Awards" tab_id="1409437739414-2-3"][vc_column_text]Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+
+Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/vc_tour][vc_column_text]
+<h5>Past Clients of John Say</h5>
+[/vc_column_text][shvc_testimonialc pause="5000" transition="vertical" adapt="false"][shvc_testimonial name="Tim Willis" title="Client"]Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus.[/shvc_testimonial][shvc_testimonial name="Jimmy Townsend" title="Client"]Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus.[/shvc_testimonial][/shvc_testimonialc][/vc_column][/vc_row][vc_row][vc_column width="1/1"][vc_empty_space height="32px"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[/vc_column_text][vc_empty_space height="32px"][vc_images_carousel images="102,103,104,105,106,107,108,109,110,111" onclick="link_no" custom_links_target="_self" mode="horizontal" speed="5000" slides_per_view="4" autoplay="yes" hide_pagination_control="yes" wrap="yes" img_size="full"][vc_empty_space height="32px"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][sh_form nametext="Your Name" emailtext="Your Email" messagetext="Message To John" buttontext="Send Message" buttonbg="#e74c3c" buttoncolor="#fcfcfc" buttonborder="#555555" buttonborderw="0px" borderradius="0px"][/vc_column][vc_column width="1/2"][shvc_gmap unique="atzGEKu" bordered="true" fullwidth="false" height="300px" width="100%" zoom="16" zoomcontrol="true" pancontrol="true" maptypecontrol="true" scrollwheel="true" maptype="ROADMAP" changemap="true" mapcolor="#e74c3c" infoboxbg="#e74c3c" infoboxcolor="#ffffff" address="Denver Colorado, 80208" marker="2438" infobox="John is located at the downtown office."][/shvc_gmap][/vc_column][/vc_row][vc_row][vc_column width="1/1"][vc_empty_space height="60px"][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>100</wp:post_id>
+		<wp:post_date>2014-09-29 21:46:42</wp:post_date>
+		<wp:post_date_gmt>2014-09-29 21:46:42</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>john-jones</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>people</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="peoplecat" nicename="our-team"><![CDATA[Our Team]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[101]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpb_vc_js_interface_version</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>person_link</wp:meta_key>
+			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>person_name</wp:meta_key>
+			<wp:meta_value><![CDATA[John Jones]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>person_title</wp:meta_key>
+			<wp:meta_value><![CDATA[Senior Developer]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>person_quick</wp:meta_key>
+			<wp:meta_value><![CDATA[Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>social_icon</wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;s:17:"fa-twitter-square";i:1;s:21:"fa-google-plus-square";i:2;s:18:"fa-facebook-square";i:3;s:11:"fa-linkedin";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>social_link</wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;s:1:"#";i:1;s:1:"#";i:2;s:1:"#";i:3;s:1:"#";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>vc_teaser</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[101]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpb_vc_js_interface_version</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>person_link</wp:meta_key>
+			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>person_name</wp:meta_key>
+			<wp:meta_value><![CDATA[John Jones]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>person_title</wp:meta_key>
+			<wp:meta_value><![CDATA[Senior Developer]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>person_quick</wp:meta_key>
+			<wp:meta_value><![CDATA[Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>social_icon</wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;s:17:"fa-twitter-square";i:1;s:21:"fa-google-plus-square";i:2;s:18:"fa-facebook-square";i:3;s:11:"fa-linkedin";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>social_link</wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{i:0;s:1:"#";i:1;s:1:"#";i:2;s:1:"#";i:3;s:1:"#";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>vc_teaser</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Portfolio 2 - 4 Columns</title>
 		<link>http://demo.sh-themes.com/credencebeta/portfolio-2-4-columns/</link>
 		<pubDate>Sat, 04 Oct 2014 19:09:32 +0000</pubDate>
@@ -31121,8 +31501,8 @@ Page sections can have unique bottom shadows, like the bottom section on this pa
 
 Each page can override several theme settings, giving you the opportunity to make each page unique.
 
-[/sh_content][/vc_column_inner][/vc_row_inner][/shvc_colorbg][/vc_column][/vc_row][vc_row css=".vc_custom_1439708083306{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1439705034131{margin-top: -10px !important;}"][shvc_colorbg backgroundcolor="#e74c3c" arrower="bottom"][vc_column_text css=".vc_custom_1439708605667{margin-bottom: 0px !important;}"]
-<h4>Did you know Credence includes over <strong>$165</strong> in premium plugins and fonts?  All you pay for is the theme.</h4>
+[/sh_content][/vc_column_inner][/vc_row_inner][/shvc_colorbg][/vc_column][/vc_row][vc_row css=".vc_custom_1439708083306{margin-bottom: 0px !important;}"][vc_column css=".vc_custom_1439705034131{margin-top: -10px !important;}"][shvc_colorbg backgroundcolor="#e74c3c" arrower="bottom"][vc_column_text css=".vc_custom_1480713400169{margin-bottom: 0px !important;}"]
+<h4>Did you know Credence includes over <strong>$151</strong> in premium plugins and fonts?  All you pay for is the theme.</h4>
 [/vc_column_text][/shvc_colorbg][/vc_column][/vc_row][vc_row][vc_column][shvc_colorbg backgroundcolor="#ededed" fontcolor="#444444"][vc_empty_space][vc_row_inner el_class="text-left"][vc_column_inner width="1/3"][sh_content style="left" background="false" color="#2ecc71" target="_self" iconset="linear" iconlinear="icon-cube" title="Visual Composer"]
 
 Massively Popular Page Builder Visual Composer included for free <strong>$33.00</strong>
@@ -31131,19 +31511,15 @@ Massively Popular Page Builder Visual Composer included for free <strong>$33.00<
 
 Unique and Premium icon set bringing you 1001 icons Linearicons <strong>$59.00</strong>
 
-[/sh_content][/vc_column_inner][vc_column_inner width="1/3"][sh_content style="left" background="false" color="#9b59b6" target="_self" iconset="linear" iconlinear="icon-bubble-dots" title="Live Chat"]
-
-The perfect solution for you to chat with your visitors online, Live Chat <strong>$17.00</strong>
-
-[/sh_content][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="text-left"][vc_column_inner width="1/3"][sh_content style="left" background="false" color="#f1c40f" target="_self" iconset="linear" iconlinear="icon-grid" title="Essential Grid"]
-
-Popular and extremely powerful grid Building plugin <strong>$25.00</strong>
-
 [/sh_content][/vc_column_inner][vc_column_inner width="1/3"][sh_content style="left" background="false" color="#e67e22" target="_self" iconset="linear" iconlinear="icon-pencil-ruler" title="Slider Revolution"]
 
 The absolute most popular and powerful slider, Slider Revolution <strong>$18.00</strong>
 
-[/sh_content][/vc_column_inner][vc_column_inner width="1/3"][sh_content style="left" background="false" color="#34495e" target="_self" iconset="linear" iconlinear="icon-news" title="LayerSlider"]
+[/sh_content][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="text-left"][vc_column_inner width="1/2"][sh_content style="left" background="false" color="#f1c40f" target="_self" iconset="linear" iconlinear="icon-grid" title="Essential Grid"]
+
+Popular and extremely powerful grid Building plugin <strong>$25.00</strong>
+
+[/sh_content][/vc_column_inner][vc_column_inner width="1/2"][sh_content style="left" background="false" color="#34495e" target="_self" iconset="linear" iconlinear="icon-news" title="LayerSlider"]
 
 The ever popular and powerful slider LayerSlider included for you <strong>$17.00</strong>
 
@@ -31312,7 +31688,7 @@ The ever popular and powerful slider LayerSlider included for you <strong>$17.00
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1421399222479{margin-top: -1px !important;}.vc_custom_1439704830392{margin-bottom: 0px !important;}.vc_custom_1439708083306{margin-bottom: 0px !important;}.vc_custom_1439705034131{margin-top: -10px !important;}.vc_custom_1439708605667{margin-bottom: 0px !important;}.vc_custom_1439706196149{margin-bottom: 0px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1421399222479{margin-top: -1px !important;}.vc_custom_1439704830392{margin-bottom: 0px !important;}.vc_custom_1439708083306{margin-bottom: 0px !important;}.vc_custom_1439705034131{margin-top: -10px !important;}.vc_custom_1480713400169{margin-bottom: 0px !important;}.vc_custom_1439706196149{margin-bottom: 0px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -31376,7 +31752,7 @@ The ever popular and powerful slider LayerSlider included for you <strong>$17.00
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1421399222479{margin-top: -1px !important;}.vc_custom_1439704830392{margin-bottom: 0px !important;}.vc_custom_1439708083306{margin-bottom: 0px !important;}.vc_custom_1439705034131{margin-top: -10px !important;}.vc_custom_1439708605667{margin-bottom: 0px !important;}.vc_custom_1439706196149{margin-bottom: 0px !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1421399222479{margin-top: -1px !important;}.vc_custom_1439704830392{margin-bottom: 0px !important;}.vc_custom_1439708083306{margin-bottom: 0px !important;}.vc_custom_1439705034131{margin-top: -10px !important;}.vc_custom_1480713400169{margin-bottom: 0px !important;}.vc_custom_1439706196149{margin-bottom: 0px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -32041,6 +32417,13 @@ Happy Customers
 			<wp:meta_value><![CDATA[h1 {
     font-size:60px;
     line-height: 80px;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size:30px;
+        line-height:30px;
+    }
 }]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -33480,7 +33863,7 @@ A Summary below the header if desired.
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[10]]></wp:meta_value>
+			<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -33528,7 +33911,7 @@ A Summary below the header if desired.
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[10]]></wp:meta_value>
+			<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -33698,7 +34081,7 @@ audio/mpeg
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_user_IP</wp:meta_key>
@@ -33758,7 +34141,7 @@ audio/mpeg
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_user_IP</wp:meta_key>
@@ -33918,7 +34301,7 @@ audio/mpeg
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[21]]></wp:meta_value>
+			<wp:meta_value><![CDATA[25]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -33966,7 +34349,7 @@ audio/mpeg
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[21]]></wp:meta_value>
+			<wp:meta_value><![CDATA[25]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
@@ -34054,42 +34437,32 @@ audio/mpeg
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>John Jones</title>
-		<link>http://demo.sh-themes.com/credencebeta/people/john-jones/</link>
-		<pubDate>Mon, 29 Sep 2014 21:46:42 +0000</pubDate>
+		<title>A Video Post</title>
+		<link>http://demo.sh-themes.com/credencebeta/a-video-post/</link>
+		<pubDate>Mon, 29 Sep 2014 20:34:46 +0000</pubDate>
 		<dc:creator><![CDATA[sh-themes]]></dc:creator>
-		<guid isPermaLink="false">http://demo.sh-themes.com/credence/?post_type=people&#038;p=100</guid>
+		<guid isPermaLink="false">http://demo.sh-themes.com/credence/?p=70</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row][vc_column width="1/1"][sh_headerdouble size="h4"]A True Leader On Our Team[/sh_headerdouble][vc_empty_space height="32px"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][sh_imageframe style="bordered" bordersize="1px" bordercolor="rgba(0,0,0,0.25)" padding="5px" action="none" hover="disable" source="101"][sh_social icon="fa fa-facebook" target="_new" size="medium" placement="bottom" framed="true" fontcolor="rgba(0,0,0,0.3)" radius="2px" bgcolor="rgba(0,0,0,0.15)" link="#" title="Facebook"][sh_social icon="fa fa-linkedin" target="_new" size="medium" placement="bottom" framed="true" fontcolor="rgba(0,0,0,0.3)" radius="2px" bgcolor="rgba(0,0,0,0.15)" link="#" title="LinkedIn"][sh_social icon="fa fa-twitter" target="_new" size="medium" placement="bottom" framed="true" fontcolor="rgba(0,0,0,0.3)" radius="2px" bgcolor="rgba(0,0,0,0.15)" link="#" title="Twitter"][sh_social icon="fa fa-codepen" target="_new" size="medium" placement="bottom" framed="true" fontcolor="rgba(0,0,0,0.3)" radius="2px" bgcolor="rgba(0,0,0,0.15)" link="#" title="Codepen"][sh_social icon="fa fa-google-plus" target="_new" size="medium" placement="bottom" framed="true" fontcolor="rgba(0,0,0,0.3)" radius="2px" bgcolor="rgba(0,0,0,0.15)" link="#" title="Google+"][/vc_column][vc_column width="1/2"][vc_tour interval="0" el_class="rightside"][vc_tab title="Achievements" tab_id="1409436148-1-80"][vc_column_text]Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
-
-Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][vc_tab title="Education" tab_id="1409436148-2-74"][vc_column_text]Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
-
-Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][vc_tab title="Awards" tab_id="1409437739414-2-3"][vc_column_text]Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
-
-Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/vc_tour][vc_column_text]
-<h5>Past Clients of John Say</h5>
-[/vc_column_text][shvc_testimonialc pause="5000" transition="vertical" adapt="false"][shvc_testimonial name="Tim Willis" title="Client"]Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus.[/shvc_testimonial][shvc_testimonial name="Jimmy Townsend" title="Client"]Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus.[/shvc_testimonial][/shvc_testimonialc][/vc_column][/vc_row][vc_row][vc_column width="1/1"][vc_empty_space height="32px"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[/vc_column_text][vc_empty_space height="32px"][vc_images_carousel images="102,103,104,105,106,107,108,109,110,111" onclick="link_no" custom_links_target="_self" mode="horizontal" speed="5000" slides_per_view="4" autoplay="yes" hide_pagination_control="yes" wrap="yes" img_size="full"][vc_empty_space height="32px"][/vc_column][/vc_row][vc_row][vc_column width="1/2"][sh_form nametext="Your Name" emailtext="Your Email" messagetext="Message To John" buttontext="Send Message" buttonbg="#e74c3c" buttoncolor="#fcfcfc" buttonborder="#555555" buttonborderw="0px" borderradius="0px"][/vc_column][vc_column width="1/2"][shvc_gmap unique="atzGEKu" bordered="true" fullwidth="false" height="300px" width="100%" zoom="16" zoomcontrol="true" pancontrol="true" maptypecontrol="true" scrollwheel="true" maptype="ROADMAP" changemap="true" mapcolor="#e74c3c" infoboxbg="#e74c3c" infoboxcolor="#ffffff" address="Denver Colorado, 80208" marker="2438" infobox="John is located at the downtown office."][/shvc_gmap][/vc_column][/vc_row][vc_row][vc_column width="1/1"][vc_empty_space height="60px"][/vc_column][/vc_row]]]></content:encoded>
+		<content:encoded><![CDATA[Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.   Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>100</wp:post_id>
-		<wp:post_date>2014-09-29 21:46:42</wp:post_date>
-		<wp:post_date_gmt>2014-09-29 21:46:42</wp:post_date_gmt>
+		<wp:post_id>70</wp:post_id>
+		<wp:post_date>2014-09-29 20:34:46</wp:post_date>
+		<wp:post_date_gmt>2014-09-29 20:34:46</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>john-jones</wp:post_name>
+		<wp:post_name>a-video-post</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>people</wp:post_type>
+		<wp:post_type>post</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="peoplecat" nicename="our-team"><![CDATA[Our Team]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[101]]></wp:meta_value>
-		</wp:postmeta>
+		<category domain="category" nicename="posts"><![CDATA[Posts]]></category>
+		<category domain="post_tag" nicename="video"><![CDATA[Video]]></category>
+		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_vc_js_interface_version</wp:meta_key>
@@ -34100,44 +34473,52 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>person_link</wp:meta_key>
-			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+			<wp:meta_key>fv_video</wp:meta_key>
+			<wp:meta_value><![CDATA[http://vimeo.com/85377978]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>person_name</wp:meta_key>
-			<wp:meta_value><![CDATA[John Jones]]></wp:meta_value>
+			<wp:meta_key>fv_video_id</wp:meta_key>
+			<wp:meta_value><![CDATA[85377978]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>person_title</wp:meta_key>
-			<wp:meta_value><![CDATA[Senior Developer]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>person_quick</wp:meta_key>
-			<wp:meta_value><![CDATA[Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus.]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>social_icon</wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{i:0;s:17:"fa-twitter-square";i:1;s:21:"fa-google-plus-square";i:2;s:18:"fa-facebook-square";i:3;s:11:"fa-linkedin";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>social_link</wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{i:0;s:1:"#";i:1;s:1:"#";i:2;s:1:"#";i:3;s:1:"#";}]]></wp:meta_value>
+			<wp:meta_key>fv_video_img</wp:meta_key>
+			<wp:meta_value><![CDATA[http://demo.sh-themes.com/credence/wp-content/themes/credence/theme/admin//images/vimeo.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>vc_teaser</wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[28]]></wp:meta_value>
+			<wp:meta_key>video_type</wp:meta_key>
+			<wp:meta_value><![CDATA[vimeo]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[101]]></wp:meta_value>
+			<wp:meta_key>video_id</wp:meta_key>
+			<wp:meta_value><![CDATA[135373919]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>video_poster</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_user_IP</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:16:"ip-115.64.22.251";s:13:"115.64.22.251";s:17:"ip-49.204.112.231";s:14:"49.204.112.231";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_post_like_count</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpt_view_count</wp:meta_key>
+			<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_vc_js_interface_version</wp:meta_key>
@@ -34148,36 +34529,128 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>person_link</wp:meta_key>
-			<wp:meta_value><![CDATA[enable]]></wp:meta_value>
+			<wp:meta_key>fv_video</wp:meta_key>
+			<wp:meta_value><![CDATA[http://vimeo.com/85377978]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>person_name</wp:meta_key>
-			<wp:meta_value><![CDATA[John Jones]]></wp:meta_value>
+			<wp:meta_key>fv_video_id</wp:meta_key>
+			<wp:meta_value><![CDATA[85377978]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>person_title</wp:meta_key>
-			<wp:meta_value><![CDATA[Senior Developer]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>person_quick</wp:meta_key>
-			<wp:meta_value><![CDATA[Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus.]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>social_icon</wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{i:0;s:17:"fa-twitter-square";i:1;s:21:"fa-google-plus-square";i:2;s:18:"fa-facebook-square";i:3;s:11:"fa-linkedin";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>social_link</wp:meta_key>
-			<wp:meta_value><![CDATA[a:4:{i:0;s:1:"#";i:1;s:1:"#";i:2;s:1:"#";i:3;s:1:"#";}]]></wp:meta_value>
+			<wp:meta_key>fv_video_img</wp:meta_key>
+			<wp:meta_value><![CDATA[http://demo.sh-themes.com/credence/wp-content/themes/credence/theme/admin//images/vimeo.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>vc_teaser</wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
+			<wp:meta_key>video_type</wp:meta_key>
+			<wp:meta_value><![CDATA[vimeo]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>video_id</wp:meta_key>
+			<wp:meta_value><![CDATA[135373919]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>video_poster</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_user_IP</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:16:"ip-115.64.22.251";s:13:"115.64.22.251";s:17:"ip-49.204.112.231";s:14:"49.204.112.231";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_post_like_count</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[28]]></wp:meta_value>
+			<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_html5_mp4</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_html5_ogv</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_html5_webm</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_youtube</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_vimeo</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_wistia</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_image</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_iframe</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_soundcloud</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_vimeo_ratio</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_youtube_ratio</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_wistia_ratio</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_html5_ratio</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_soundcloud_ratio</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_settings_custom_meta_skin</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_settings_custom_meta_element</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_settings_custom_meta_setting</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_settings_custom_meta_style</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>eg_sources_revslider</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -34256,7 +34729,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[62]]></wp:meta_value>
+			<wp:meta_value><![CDATA[68]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -34304,7 +34777,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[62]]></wp:meta_value>
+			<wp:meta_value><![CDATA[68]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -34383,7 +34856,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[34]]></wp:meta_value>
+			<wp:meta_value><![CDATA[42]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -34431,7 +34904,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[34]]></wp:meta_value>
+			<wp:meta_value><![CDATA[42]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -34510,7 +34983,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[76]]></wp:meta_value>
+			<wp:meta_value><![CDATA[83]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -34558,7 +35031,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[76]]></wp:meta_value>
+			<wp:meta_value><![CDATA[83]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -34637,7 +35110,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[55]]></wp:meta_value>
+			<wp:meta_value><![CDATA[63]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -34685,7 +35158,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[55]]></wp:meta_value>
+			<wp:meta_value><![CDATA[63]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -34752,7 +35225,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[34]]></wp:meta_value>
+			<wp:meta_value><![CDATA[36]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -34800,7 +35273,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[34]]></wp:meta_value>
+			<wp:meta_value><![CDATA[36]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -34867,7 +35340,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[24]]></wp:meta_value>
+			<wp:meta_value><![CDATA[26]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -34903,7 +35376,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[24]]></wp:meta_value>
+			<wp:meta_value><![CDATA[26]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -34986,7 +35459,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -35026,7 +35499,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[36]]></wp:meta_value>
+			<wp:meta_value><![CDATA[37]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -35117,7 +35590,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[24]]></wp:meta_value>
+			<wp:meta_value><![CDATA[26]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -35165,7 +35638,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[24]]></wp:meta_value>
+			<wp:meta_value><![CDATA[26]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -35232,7 +35705,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[32]]></wp:meta_value>
+			<wp:meta_value><![CDATA[36]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -35268,7 +35741,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[32]]></wp:meta_value>
+			<wp:meta_value><![CDATA[36]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -35347,7 +35820,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[105]]></wp:meta_value>
+			<wp:meta_value><![CDATA[109]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
@@ -35379,7 +35852,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[105]]></wp:meta_value>
+			<wp:meta_value><![CDATA[109]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -35470,7 +35943,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[82]]></wp:meta_value>
+			<wp:meta_value><![CDATA[86]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
@@ -35514,7 +35987,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[82]]></wp:meta_value>
+			<wp:meta_value><![CDATA[86]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -35593,7 +36066,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[105]]></wp:meta_value>
+			<wp:meta_value><![CDATA[109]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
@@ -35637,7 +36110,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[105]]></wp:meta_value>
+			<wp:meta_value><![CDATA[109]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -35717,7 +36190,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[99]]></wp:meta_value>
+			<wp:meta_value><![CDATA[104]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -35765,7 +36238,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[99]]></wp:meta_value>
+			<wp:meta_value><![CDATA[104]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -35832,7 +36305,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[95]]></wp:meta_value>
+			<wp:meta_value><![CDATA[100]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
@@ -35864,7 +36337,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[95]]></wp:meta_value>
+			<wp:meta_value><![CDATA[100]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -35931,7 +36404,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[158]]></wp:meta_value>
+			<wp:meta_value><![CDATA[162]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -35967,7 +36440,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[158]]></wp:meta_value>
+			<wp:meta_value><![CDATA[162]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -36034,7 +36507,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[246]]></wp:meta_value>
+			<wp:meta_value><![CDATA[250]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
@@ -36066,7 +36539,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[246]]></wp:meta_value>
+			<wp:meta_value><![CDATA[250]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -36079,223 +36552,6 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>A Video Post</title>
-		<link>http://demo.sh-themes.com/credencebeta/a-video-post/</link>
-		<pubDate>Mon, 29 Sep 2014 20:34:46 +0000</pubDate>
-		<dc:creator><![CDATA[sh-themes]]></dc:creator>
-		<guid isPermaLink="false">http://demo.sh-themes.com/credence/?p=70</guid>
-		<description></description>
-		<content:encoded><![CDATA[Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.   Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>70</wp:post_id>
-		<wp:post_date>2014-09-29 20:34:46</wp:post_date>
-		<wp:post_date_gmt>2014-09-29 20:34:46</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>a-video-post</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="posts"><![CDATA[Posts]]></category>
-		<category domain="post_tag" nicename="video"><![CDATA[Video]]></category>
-		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_interface_version</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>fv_video</wp:meta_key>
-			<wp:meta_value><![CDATA[http://vimeo.com/85377978]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>fv_video_id</wp:meta_key>
-			<wp:meta_value><![CDATA[85377978]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>fv_video_img</wp:meta_key>
-			<wp:meta_value><![CDATA[http://demo.sh-themes.com/credence/wp-content/themes/credence/theme/admin//images/vimeo.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>vc_teaser</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>video_type</wp:meta_key>
-			<wp:meta_value><![CDATA[vimeo]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>video_id</wp:meta_key>
-			<wp:meta_value><![CDATA[135373919]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>video_poster</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_IP</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:16:"ip-115.64.22.251";s:13:"115.64.22.251";s:17:"ip-49.204.112.231";s:14:"49.204.112.231";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_post_like_count</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_interface_version</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>fv_video</wp:meta_key>
-			<wp:meta_value><![CDATA[http://vimeo.com/85377978]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>fv_video_id</wp:meta_key>
-			<wp:meta_value><![CDATA[85377978]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>fv_video_img</wp:meta_key>
-			<wp:meta_value><![CDATA[http://demo.sh-themes.com/credence/wp-content/themes/credence/theme/admin//images/vimeo.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>vc_teaser</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>video_type</wp:meta_key>
-			<wp:meta_value><![CDATA[vimeo]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>video_id</wp:meta_key>
-			<wp:meta_value><![CDATA[135373919]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>video_poster</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_user_IP</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:16:"ip-115.64.22.251";s:13:"115.64.22.251";s:17:"ip-49.204.112.231";s:14:"49.204.112.231";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_post_like_count</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"vc_grid";a:0:{}s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_html5_mp4</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_html5_ogv</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_html5_webm</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_youtube</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_vimeo</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_wistia</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_image</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_iframe</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_soundcloud</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_vimeo_ratio</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_youtube_ratio</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_wistia_ratio</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_html5_ratio</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_soundcloud_ratio</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_settings_custom_meta_skin</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_settings_custom_meta_element</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_settings_custom_meta_setting</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_settings_custom_meta_style</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>eg_sources_revslider</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -36367,7 +36623,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[46]]></wp:meta_value>
+			<wp:meta_value><![CDATA[50]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_user_IP</wp:meta_key>
@@ -36427,7 +36683,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[46]]></wp:meta_value>
+			<wp:meta_value><![CDATA[50]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_user_IP</wp:meta_key>
@@ -36599,7 +36855,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[11]]></wp:meta_value>
+			<wp:meta_value><![CDATA[14]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -36655,7 +36911,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[11]]></wp:meta_value>
+			<wp:meta_value><![CDATA[14]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -36807,7 +37063,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[45]]></wp:meta_value>
+			<wp:meta_value><![CDATA[50]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_user_IP</wp:meta_key>
@@ -36939,7 +37195,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[45]]></wp:meta_value>
+			<wp:meta_value><![CDATA[50]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_user_IP</wp:meta_key>
@@ -37041,7 +37297,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[85]]></wp:meta_value>
+			<wp:meta_value><![CDATA[90]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_user_IP</wp:meta_key>
@@ -37157,7 +37413,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[85]]></wp:meta_value>
+			<wp:meta_value><![CDATA[90]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_user_IP</wp:meta_key>
@@ -37315,7 +37571,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[158]]></wp:meta_value>
+			<wp:meta_value><![CDATA[163]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -37379,7 +37635,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[158]]></wp:meta_value>
+			<wp:meta_value><![CDATA[163]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -37564,7 +37820,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[360]]></wp:meta_value>
+			<wp:meta_value><![CDATA[364]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -37628,7 +37884,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[360]]></wp:meta_value>
+			<wp:meta_value><![CDATA[364]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
@@ -37777,7 +38033,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[255]]></wp:meta_value>
+			<wp:meta_value><![CDATA[259]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_user_IP</wp:meta_key>
@@ -37829,7 +38085,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[255]]></wp:meta_value>
+			<wp:meta_value><![CDATA[259]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_user_IP</wp:meta_key>
@@ -37978,7 +38234,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -38110,7 +38366,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -38242,7 +38498,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -38374,7 +38630,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -38506,7 +38762,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[10]]></wp:meta_value>
+			<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -38638,7 +38894,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -38770,7 +39026,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -38902,7 +39158,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+			<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -39034,7 +39290,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -39166,7 +39422,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -39298,7 +39554,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -39430,7 +39686,7 @@ Itaque earum rerum hic tenetur a sapiente delectus.[/vc_column_text][/vc_tab][/v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpt_view_count</wp:meta_key>
-			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+			<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>

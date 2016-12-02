@@ -56,7 +56,7 @@
                             el.find( '#' + e.target.getAttribute( 'data-id' ) + '-transparency' ).removeAttr( 'checked' );
                         },
                         clear: function( e, ui ) {
-                            $( this ).val( ui.color.toString() );
+                            $( this ).val( '' );
                             redux_change( $( this ).parent().find( '.redux-color-init' ) );
                         }
                     }
@@ -146,7 +146,6 @@
                 el.find( '.color-transparency' ).on(
                     'click', function() {
                         if ( $( this ).is( ":checked" ) ) {
-
                             el.find( '.redux-saved-color' ).val( $( '#' + $( this ).data( 'id' ) ).val() );
                             el.find( '#' + $( this ).data( 'id' ) ).val( 'transparent' );
                             el.find( '#' + $( this ).data( 'id' ) ).parent().parent().find( '.wp-color-result' ).css(

@@ -34,7 +34,7 @@
     $sample_patterns_path = ReduxFramework::$_dir . '../sample/patterns/';
     $sample_patterns_url  = ReduxFramework::$_url . '../sample/patterns/';
     $sample_patterns      = array();
-
+    
     if ( is_dir( $sample_patterns_path ) ) {
 
         if ( $sample_patterns_dir = opendir( $sample_patterns_path ) ) {
@@ -1480,6 +1480,14 @@
                 'subtitle' => __( 'No validation can be done on this field type', 'redux-framework-demo' ),
                 'desc'     => __( 'Here\'s a list of all the elusive icons by name and icon.', 'redux-framework-demo' ),
             ),
+            array(
+                'id'       => 'opt-select-users',
+                'type'     => 'select',
+                'data'     => 'users',
+                'title'    => __( 'Users Select Option', 'redux-framework-demo' ),
+                'subtitle' => __( 'No validation can be done on this field type', 'redux-framework-demo' ),
+                'desc'     => __( 'This is the description field, again good for additional info.', 'redux-framework-demo' ),
+            ),
         )
     ) );
     Redux::setSection( $opt_name, array(
@@ -2298,13 +2306,13 @@
             $return['value'] = $value;
 
             if ( $error == true ) {
-                $return['error'] = $field;
                 $field['msg']    = 'your custom error message';
+                $return['error'] = $field;
             }
 
             if ( $warning == true ) {
-                $return['warning'] = $field;
                 $field['msg']      = 'your custom warning message';
+                $return['warning'] = $field;
             }
 
             return $return;
