@@ -36,6 +36,9 @@
 
          	// Woo Commerce Support
         	add_theme_support( 'woocommerce' );
+			//add_theme_support( 'wc-product-gallery-zoom' );
+			add_theme_support( 'wc-product-gallery-lightbox' );
+			add_theme_support( 'wc-product-gallery-slider' );
 			// Include customized woocommerce items
 			require_once get_template_directory() . '/theme/theme-commerce.php';
 

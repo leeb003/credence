@@ -2097,9 +2097,11 @@ input.input-text.qty {
   font-size: 10px;
   margin-top: 5px;
 }
+.item-links .add_to_cart_button {
+	padding-left: 0 !important;
+}
 .item-desc .price {
   float: left;
-  clear: both;
   margin-bottom: 10px;
 }
 .item-wrapper .item-links {

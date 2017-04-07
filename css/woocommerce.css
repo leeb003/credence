@@ -185,86 +185,6 @@
 	box-shadow: none;
 }
 	
-/* Pretty Photo overrides */
-
-div.ppt {
-	display: none !important;
-}
-
-div.pp_woocommerce .pp_next:before {
-	content: '\f054';
-	font-family: FontAwesome;
-	right: 0px;
-}
-div.pp_woocommerce .pp_previous:before {
-	content: '\f053';
-	font-family: FontAwesome;
-	left: 0px;
-}
-
-div.pp_woocommerce .pp_next:before, 
-div.pp_woocommerce .pp_previous:before {
-	height: 50px;
-	width: 40px;
-	border-radius: 0;
-	background: rgba(0,0,0,0.55);
-	font-size: 25px !important;
-	line-height: 50px;
-	text-shadow: none;
-}
-
-div.pp_woocommerce .pp_close:before {
-	font-family: FontAwesome;
-    content: "\f00d";
-    display: block;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
-    text-align: center;
-    text-indent: 0px;
-}
-
-div.pp_woocommerce .pp_close {
-	border-radius: 0;
-	text-shadow: 0;
-	background-color: #fff;
-	color: #555 !important;
-	top: auto;
-	bottom: 20px;
-	right: 20px;
-}
-
-div.pp_woocommerce .pp_close:hover {
-	background-color: #fff;
-}
-
-div.pp_woocommerce a.pp_contract, 
-div.pp_woocommerce a.pp_expand {
-	background: none;
-	top: 25px;
-	right: 25px;
-	left: auto;
-}
-
-div.pp_woocommerce a.pp_contract:before, 
-div.pp_woocommerce a.pp_expand:before {
-	font-family: FontAwesome;
-	content: "\f065";
-	background: none;
-	color: #555;
-}
-
-div.pp_woocommerce a.pp_contract:hover, 
-div.pp_woocommerce a.pp_expand:hover {
-	background: none;
-}
-
-div.pp_woocommerce .pp_nav {
-	display: none !important;
-}
-
 .woocommerce-page div.product form.cart .button {
 	padding: 7px;
 }
@@ -496,11 +416,14 @@ div.pp_woocommerce .pp_nav {
 	border-radius: 0px;
 }
 
+.mini_cart_item > a.remove {
+	display: none !important;
+}
+
 .woocommerce table.cart a.remove:hover, 
 .woocommerce #content table.cart a.remove:hover, 
 .woocommerce-page table.cart a.remove:hover, 
 .woocommerce-page #content table.cart a.remove:hover {
-    background-color: inherit;
     color: red;
 }
 
@@ -508,15 +431,6 @@ div.pp_woocommerce .pp_nav {
 	margin: 4px 30px;
 	float: right;
 }
-
-/*
-.woocommerce table.cart img, 
-.woocommerce #content table.cart img, 
-.woocommerce-page table.cart img, 
-.woocommerce-page #content table.cart img {
-	width: auto;
-}
-*/
 
 .woocommerce .cart-collaterals .shipping_calculator, .woocommerce-page .cart-collaterals .shipping_calculator {
 	float:left;

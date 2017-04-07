@@ -22,16 +22,16 @@ class ThemeCommerce {
 		add_filter('wp_nav_menu_items', array(&$this, 'add_cart_to_nav'), 10, 2);
 
 		// Ensure cart contents update when products are added to the cart via AJAX (place the following in functions.php)
-		add_filter('add_to_cart_fragments', array(&$this, 'woocommerce_header_add_to_cart_fragment'));
+		add_filter('woocommerce_add_to_cart_fragments', array(&$this, 'woocommerce_header_add_to_cart_fragment'), 10, 1);
 
 	}
 
 	// Ajax update cart icon in navbar
 	function woocommerce_header_add_to_cart_fragment( $fragments ) {
-		global $woocommerce;
+		//global $woocommerce;
 
-		if ($woocommerce->cart->cart_contents_count > 0) {
-			$count = $woocommerce->cart->cart_contents_count;
+		if (WC()->cart->get_cart_contents_count() > 0) {
+			$count = WC()->cart->get_cart_contents_count();
 		} else {
 			$count = 0;
 		}
@@ -107,7 +107,7 @@ class ThemeCommerce {
 		echo '<span class="image-swap">';
 
 		/* Extra image on hover */
-        $attachment_ids = $product->get_gallery_attachment_ids();
+        $attachment_ids = $product->get_gallery_image_ids();
         if ( $attachment_ids ) {
             $image_link = wp_get_attachment_image_src ( $attachment_ids[0], $size );  // just get the first one
             echo '<img class="image-hover" src="' . $image_link[0] . '" />';
@@ -139,7 +139,7 @@ class ThemeCommerce {
 	// User selects how many products to view per page
 	// via http://designloud.com/how-to-add-products-per-page-dropdown-to-woocommerce/
 	public function woocommerce_catalog_page_ordering() { 
-		$firstPage = get_permalink( woocommerce_get_page_id( 'shop' ) );
+		$firstPage = get_permalink( wc_get_page_id( 'shop' ) );
 		$action = $firstPage;
 		?>
 		<form action="<?php echo $action;?>" method="POST" name="results" class="paging-form">
