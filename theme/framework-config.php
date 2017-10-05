@@ -332,6 +332,7 @@
                         "default" => 0,
                         ),
 
+					/* Depricated
 					array( 
 						'id'=>'chrome-smooth',
 						'type' => 'switch',
@@ -339,7 +340,7 @@
 						'subtitle'=>__('Enable Google Chrome browser javascript to perform smooth mouse scrolling.', 'shcreate'),
 						'default' => 1,
 					),
-
+					*/
 					array(
                         'id'=>'totop',
                         'type' => 'switch',

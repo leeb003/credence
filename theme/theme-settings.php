@@ -274,7 +274,7 @@ class ThemeSettings {
 		wp_localize_script(  'main-script', 'credence_globals', array(
 			'topsticky'       => $topsticky,
 			'sh_smoothScroll' => $smooth_scroll,
-			'chrome_smooth'   => $chrome_smooth,
+			// 'chrome_smooth'   => $chrome_smooth, //depricated
 			'site_fadein'     => $site_fadein,
 			'side_menu'       => $side_menu,
 			'totop'           => $to_top
@@ -362,7 +362,8 @@ class ThemeSettings {
 		}
 
 		// Smooth scroll for webkit browsers
-		// Chrome smooth scrolling enable
+		// Chrome smooth scrolling enable - depricated
+		/*
         if (isset($shcreate['chrome-smooth']) && $shcreate['chrome-smooth'] == '1') {
             $chrome_smooth = '1';
         } else {
@@ -374,7 +375,7 @@ class ThemeSettings {
 			wp_enqueue_script( 'smoothscroll', get_template_directory_uri() 
 			. '/js/jquery.simplr.smoothscroll.min.js', array('jquery'), '1.1', true);
 		}
-
+		*/
 	}
 
 	/*

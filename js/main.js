@@ -176,9 +176,10 @@ jQuery(function ($) {  // use $ for jQuery
 
 	/******************************************
      *
-     * Smooth scrolling for webkit
+     * Smooth scrolling for webkit - Depricated
      *
      *****************************************/
+	/* 
 	$(function () {
 		if (credence_globals.chrome_smooth != 'no') {
   			var platform = navigator.platform.toLowerCase();
@@ -208,6 +209,7 @@ jQuery(function ($) {  // use $ for jQuery
   			}
 		}
 	});
+	*/
 	/******************************************
 	 *
 	 * Responsive sized videos
